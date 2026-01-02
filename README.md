@@ -39,6 +39,9 @@ Para cada ocorrência, o relatório indica:
 | Data                   | Data da alteração            |
 | Troca                  | Indicação de troca           |
 
+<img width="886" height="136" alt="image" src="https://github.com/user-attachments/assets/e653aae7-e0b5-4d5c-b56b-e3996ffcf68b" />
+
+
 ### Configurações do relatório
 
 * `i_fk_unit` → unidades (multi-seleção)
