@@ -1636,6 +1636,7 @@ Para cada movimento registado, o relatório identifica:
 **Informação técnica**
 
 - **Nome do relatório:** Movimentos por Contingente
+- **Key:** ContingentMovements
 - **Função:** S_PCK_CORE_REPORTS.GET_CONTINGENT_MOVS
 - **Local de impressão:** Módulo "Relatórios"
 - **Formatos:** Excel, PDF
@@ -1998,7 +1999,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 5 c
 **Informação técnica**
 
 - **Nome do relatório**: Polivalências por Colaborador
-- **Key**: PoliPerCollaborator
+- **Key**: EmployeePolyvalences
 - **Função**: S_PCK_CORE_REPORTS.GET_POLI_PER_COLABORATOR
 - **Local de impressão**: Módulo "Relatórios"
 - **Formatos disponíveis**: Excel, PDF
