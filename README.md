@@ -404,8 +404,8 @@ Os dados são apresentados em formato tabular e o relatório é composto por 13 
 **Informação técnica**
 
 - **Nome do relatório:** Colaboradores e Carga Mensal
-- **Key:**
-- **Função:** 
+- **Key:** CollaboratorWorkload 
+- **Função:** PCK_CORE_REPORTS.GET_COLAB_DIF_CARGA
 - **Módulo:** Relatórios
 - **Formato de saída:** Excel
 
@@ -516,6 +516,7 @@ Cada linha da tabela corresponde a um registo individual de compensação associ
 **Informação técnica**
 
 - **Nome do relatório:** Colaboradores por Motivos de Compensação
+- **Key:** CompensatoryDaysOff
 - **Função:** S_PCK_CORE_REPORTS.GET_COMPENSATIONS
 - **Local de impressão:** Módulo "relatórios"
 - **Formatos disponíveis:** Excel, PDF
@@ -732,6 +733,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 **Informação técnica**
 
 - **Nome do relatório:** Controlo de Limites de Marcação de Ausências
+- **Key:** EmployeeAbsenceLimitsReport
 - **Função:** S_PCK_CORE_REPORTS.EMPLOYEE_ABS_LIMITS
 - **Local de impressão:** Módulo "relatórios"
 - **Formatos disponíveis:** Excel, PDF
@@ -1353,7 +1355,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 
 - **Nome do relatório:** Folgas e Ausências por Dia
 - **Local de impressão:** Módulo "Relatórios"
-- **Key:** 
+- **Key:** DaysOffAndAbsencesByDay 
 - **Função:** 
 - **Formatos disponíveis:** Excel, PDF
 
@@ -1528,7 +1530,7 @@ Adicionalmente, o relatório inclui:
 **Informação técnica**
 
 - **Nome do relatório:** Mapa Anual de Férias
-- **Key:** Vacation
+- **Key:** AnnualVacationMap
 - **Função:** S_PCK_CORE_REPORTS.GET_ANUAL_VACATIONS
 - **Local:** Módulo "Relatórios"
 - **Formatos:** Excel, PDF
@@ -1576,6 +1578,7 @@ A informação é apresentada num formato semelhante a um calendário mensal, fa
 **Informação técnica**
 
 - **Nome do relatório:** Mapa de Descansos
+- **Key** RestMap / MonthlyRestMap
 - **Função:** S_PCK_CORE_REPORTS.GET_REST_MAP
 - **Local:** Módulo "Relatórios" e vista "Mapa de Descansos"
 - **Formatos:** Excel, PDF
@@ -2196,7 +2199,7 @@ De seguida, é apresentada a lista de colaboradores afetos ao posto, com o segui
 
 - **Nome do relatório:** Relatório de Gerentes por Posto de Trabalho
 - **Local de impressão:** Módulo "Relatórios"
-- **Key:**
+- **Key:** WorkstationsManagers
 - **Função:**
 - **Formatos disponíveis:** Excel, PDF
 
@@ -2286,6 +2289,7 @@ Cada linha corresponde a um posto dentro de uma secção, permitindo identificar
 **Informação técnica**
 
 - **Nome do relatório**: Relatório de Horas Necessárias vs. Planeadas
+- **Key:** HoursPlannedVsNeeded
 - **Função**: S_PCK_CORE_REPORTS.GET_PLAN_NEED_HOURS
 - **Local de impressão**: Módulo "Relatórios"
 - **Formatos disponíveis**: Excel, PDF
@@ -2330,6 +2334,7 @@ Cada linha corresponde a uma unidade específica num determinado dia.
 **Informação técnica**
 
 - **Nome do relatório**: Relatório de Horas Planeadas
+- **Key:** PlannedHours
 - **Função**: S_PCK_CORE_REPORTS.GET_PLANNED_HOURS
 - **Local de impressão**: Módulo "Relatórios"
 - **Formatos disponíveis**: Excel, PDF
@@ -2470,7 +2475,7 @@ Em cada célula são registados:
 
 - **Nome do relatório**: Relatório Mensal de Horários
 - **Local de impressão**: Módulo "Relatórios / Vista mensal de horários / Escala"
-- **Key**:
+- **Key**: MonthlyScheduleReport 
 - **Função**:
 - **Formatos disponíveis**: Excel, PDF
 
@@ -2509,7 +2514,7 @@ Os dados são apresentados em formato tabular e o relatório contém os seguinte
 **Informação técnica**
 
 - **Nome do relatório:** Resumo de Gerentes Ausentes
-- **Key:**
+- **Key:** AbsentManagersSummary
 - **Função:**
 - **Local de impressão:** Módulo "Relatórios"
 - **Formatos disponíveis:** Excel, PDF
@@ -2697,6 +2702,8 @@ Os dados são apresentados em formato tabular e cada linha corresponde a um regi
 **Informação técnica**
 
 - **Nome do relatório:** Trabalho Temporário
+- **Key:** TemporaryWork
+- **Função:** PCK_CORE_EXECUTION_REPORTS.GET_PUNCHES_TEMPORARYWORK_V0
 - **Local de impressão:** Módulo "Relatórios"
 - **Formatos disponíveis:** Excel, PDF
 
