@@ -925,8 +925,8 @@ Os dados são apresentados em formato tabular e o relatório é composto por 11 
 
 **Configurações do relatório**
 
-- **i_fk_unit** → unidade (single)
-- **i_fk_section** → secções (multi)
+- **i_fk_unidade** → unidade (single)
+- **i_fk_secao** → secções (multi)
 - **i_fk_colaborador** → colaboradores (multi)
 - **i_data_Ini / i_data_Fim** → período
 - **i_hora** → hora de saída
@@ -1335,11 +1335,10 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 
 **Configurações do relatório**
 
-- Unidade → unidade (single)
-- Secções → secções (multi)
-- Grupos → grupos (multi)
-- Parâmetros legais → motivo/parametrização
-- Data → dia selecionado
+- I_fk_unit → unidades
+- I_fk_secao → secções (multi)
+- I_fk_grupo → colaboradores (multi)
+- I_data → periodo
 
 **Filtros do relatório**
 
@@ -1356,7 +1355,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 - **Nome do relatório:** Folgas e Ausências por Dia
 - **Local de impressão:** Módulo "Relatórios"
 - **Key:** DaysOffAndAbsencesByDay 
-- **Função:** 
+- **Função:** S_PCK_CORE_REPORTS.GET_ABSENCES_TYPES_COLAB
 - **Formatos disponíveis:** Excel, PDF
 
 ---
@@ -2181,10 +2180,9 @@ De seguida, é apresentada a lista de colaboradores afetos ao posto, com o segui
 
 **Configurações do relatório**
 
-- Unidade → unidade (single)
-- Secções → secções (multi)
-- Período → data/dia selecionado
-- Horário → intervalo horário selecionado
+- I_fk_unit → unidade (single)
+- I_fk_secao → secções
+- I_data_ini/I_data_fim → período
 
 **Filtros do relatório**
 
@@ -2200,7 +2198,7 @@ De seguida, é apresentada a lista de colaboradores afetos ao posto, com o segui
 - **Nome do relatório:** Relatório de Gerentes por Posto de Trabalho
 - **Local de impressão:** Módulo "Relatórios"
 - **Key:** WorkstationsManagers
-- **Função:**
+- **Função:** S_PCK_CORE_REPORTS.GET_HOURS_COLAB
 - **Formatos disponíveis:** Excel, PDF
 
 ---
@@ -2457,6 +2455,15 @@ Em cada célula são registados:
 
 <img width="886" height="351" alt="image" src="https://github.com/user-attachments/assets/38cced5a-4089-42fd-a3d5-cfecab336557" />
 
+**Configurações do relatório**
+
+*	**i_fk_unidade** → unidade (single)
+*	**i_fk_secao** → secções (multi)
+*	**I_FK_GROUP** → grupos (multi)
+*	**i_fk_colaborador** → colaboradores (multi)
+*	**I_EMPLOYEE_FILTER** → filtro extra (string/num)
+*	**i_hora** → hora de saída
+
 **Filtros do relatório**
 
 * **Unidades**: drop-down (OBRIGATÓRIO)
@@ -2476,7 +2483,7 @@ Em cada célula são registados:
 - **Nome do relatório**: Relatório Mensal de Horários
 - **Local de impressão**: Módulo "Relatórios / Vista mensal de horários / Escala"
 - **Key**: MonthlyScheduleReport 
-- **Função**:
+- **Função**: S_RELATORIOS.GET_ENTIDADE_OFICIAL
 - **Formatos disponíveis**: Excel, PDF
 
 ---
@@ -2502,6 +2509,13 @@ Os dados são apresentados em formato tabular e o relatório contém os seguinte
 
 <img width="886" height="95" alt="image" src="https://github.com/user-attachments/assets/70f23b1f-55e9-4e33-9c89-257d6a1e0875" />
 
+**Configurações do relatório**
+
+*	I_fk_unit → unidade (1)
+*	I_fk_secao → secções (multi)
+*	I_fk_grupo → grupos (multi)
+*	I_data → período
+
 **Filtros do relatório**
 
 * Unidades: drop-down (OBRIGATÓRIO)
@@ -2515,7 +2529,7 @@ Os dados são apresentados em formato tabular e o relatório contém os seguinte
 
 - **Nome do relatório:** Resumo de Gerentes Ausentes
 - **Key:** AbsentManagersSummary
-- **Função:**
+- **Função:** S_PCK_CORE_REPORTS.GET_ABSENCES_TYPES
 - **Local de impressão:** Módulo "Relatórios"
 - **Formatos disponíveis:** Excel, PDF
 
