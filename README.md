@@ -1544,11 +1544,11 @@ Adicionalmente, o relatório inclui:
 
 ---
 
-## Mapa de Descansos/ Mapa de Descansos (Mensal)
+## Mapa de Descansos
 
-O relatório **Mapa de Descansos** apresenta, para um determinado mês ou ano, o registo diário de descansos e ausências dos colaboradores, permitindo uma visão consolidada dos diferentes motivos de ausência ocorridos nesse período.
+O relatório **Mapa de Descansos Anual**apresenta, para um determinado ano, o registo diário de descansos e ausências dos colaboradores, permitindo uma visão consolidada dos diferentes motivos de ausência ocorridos nesse período.
 
-No cabeçalho, o relatório apresenta a **unidade**, a **secção** e o **mês selecionado**. As primeiras linhas da tabela identificam os **dias da semana** e os **dias do mês**, servindo de referência temporal.
+No cabeçalho, o relatório apresenta a **unidade**, a **secção**, o **colaborador** e o **ano**. As primeiras linhas da tabela identificam os **dias do mês**, servindo de referência temporal.
 
 Para cada colaborador, o relatório mostra os dias em que ocorreram:
 
@@ -1557,7 +1557,11 @@ Para cada colaborador, o relatório mostra os dias em que ocorreram:
 - férias
 - outras ausências, conforme o tipo de informação selecionada.
 
-A informação é apresentada num formato semelhante a um calendário mensal, facilitando a leitura e análise operacional.
+É apresentado, ainda, o total de ausências, de cada tipo ocorridas, por mês e por colaborador, através de contadores.
+
+A informação é apresentada num formato semelhante a um calendário, facilitando a leitura e análise operacional.
+
+<img width="886" height="352" alt="image" src="https://github.com/user-attachments/assets/64fef752-4b79-4cbd-83fb-97bb2ba51706" />
 
 **Configurações do relatório**
 
@@ -1585,7 +1589,54 @@ A informação é apresentada num formato semelhante a um calendário mensal, fa
 **Informação técnica**
 
 - **Nome do relatório:** Mapa de Descansos
-- **Key** RestMap / MonthlyRestMap
+- **Key** RestMap
+- **Função:** S_PCK_CORE_REPORTS.GET_REST_MAP
+- **Local:** Módulo "Relatórios" e vista "Mapa de Descansos"
+- **Formatos:** Excel, PDF
+
+---
+
+## Mapa de Descansos (Mensal)
+
+O relatório **Mapa de Descansos Mensal** apresenta, para um determinado mês, o registo diário de descansos e ausências dos colaboradores, permitindo uma visão consolidada dos diferentes motivos de ausência ocorridos nesse período.
+
+No cabeçalho, o relatório apresenta a **unidade**, a **secção** e o **mês selecionado**. As primeiras linhas da tabela identificam os **dias da semana** e os **dias do mês**, servindo de referência temporal.
+
+Para cada colaborador, o relatório mostra os dias em que ocorreram:
+
+- folgas
+- feriados
+- férias
+- outras ausências, conforme o tipo de informação selecionada.
+
+É apresentado, ainda, o total de ausências, de cada tipo ocorridas, por mês e por colaborador, através de contadores.
+
+A informação é apresentada num formato semelhante a um calendário mensal, facilitando a leitura e análise operacional.
+
+<img width="886" height="104" alt="image" src="https://github.com/user-attachments/assets/b93b7c03-012f-4e92-b97e-efc20b459452" />
+
+**Configurações do relatório**
+
+- i_year → ano
+- i_month → mês
+
+**Filtros do relatório**
+
+* Unidade: drop-down (OBRIGATÓRIO)
+* Secção: drop-down (OBRIGATÓRIO)
+* Grupos: drop-down
+* Colaboradores: drop-down
+* Ano: drop-down
+* Informação a imprimir:
+  * Mapa completo
+  * Domingos e feriados livres
+
+<img width="743" height="342" alt="image" src="https://github.com/user-attachments/assets/c806da18-60b3-4693-9018-c24427ff258c" />
+
+**Informação técnica**
+
+- **Nome do relatório:** Mapa de Descansos
+- **Key** RestMap
 - **Função:** S_PCK_CORE_REPORTS.GET_REST_MAP
 - **Local:** Módulo "Relatórios" e vista "Mapa de Descansos"
 - **Formatos:** Excel, PDF
