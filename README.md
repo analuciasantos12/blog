@@ -34,20 +34,20 @@ A tabela do relatório é composta por **11 Colunas:**
 
 **Configurações do relatório**
 
-- i_fk_unit → unidades (multi-seleção)
-- i_fk_section → secções (multi-seleção)
-- i_fk_employee → colaboradores (multi-seleção)
-- i_legal_params → parâmetros legais (drop-down / configuração)
-- i_start_date / i_end_date → período
+- **i_fk_unit** → unidades (multi-seleção)
+- **i_fk_section** → secções (multi-seleção)
+- **i_fk_employee** → colaboradores (multi-seleção)
+- **i_legal_params** → parâmetros legais (drop-down / configuração)
+- **i_start_date** / i_end_date → período
 
 **Filtros do relatório** 
 
-*	Unidades: multi-seleção (OBRIGATÓRIO)
-*	Secções: multi-seleção
-*	Colaboradores: multi-seleção
-*	Parametros legais: drop-down
-*	Período
-*	Ordenação: radio button
+*	**Unidades:** multi-seleção (OBRIGATÓRIO)
+*	**Secções:** multi-seleção
+*	**Colaboradores:** multi-seleção
+*	**Parametros legais:** drop-down
+*	**Período**
+*	**Ordenação:** radio button
 
 <img width="773" height="373" alt="image" src="https://github.com/user-attachments/assets/781a1dbd-d970-4f29-b47d-131ff75244ba" />
 
@@ -105,23 +105,23 @@ A tabela do relatório é composta por **12 colunas**:
 
 **Configurações do relatório**
 
-- i_fk_unit → unidades (multi-seleção)
-- i_fk_section → secções (multi-seleção)
-- i_fk_employee → colaboradores (multi-seleção)
-- i_begin_date / i_end_date → período
-- i_status → estado(s) da troca (multi-seleção)
-- i_show_history → mostrar histórico de alterações (flag)
-- i_only_workflow → apenas alterações em workflow (flag)
+- **i_fk_unit** → unidades (multi-seleção)
+- **i_fk_section** → secções (multi-seleção)
+- **i_fk_employee** → colaboradores (multi-seleção)
+- **i_begin_date / i_end_date** → período
+- **i_status** → estado(s) da troca (multi-seleção)
+- **i_show_history** → mostrar histórico de alterações (flag)
+- **i_only_workflow** → apenas alterações em workflow (flag)
 
 **Filtros do relatório**
 
-*	Unidades: multi-seleção (OBRIGATÓRIO)
-*	Secções: multi-seleção
-*	Colaboradores: multi-seleção
-*	Estado da troca: multi-seleção
-*	Histórico de alterações: check-box
-*	Período
-*	Ordenação: radio button
+*	**Unidades:** multi-seleção (OBRIGATÓRIO)
+*	**Secções:** multi-seleção
+*	**Colaboradores:** multi-seleção
+*	**Estado da troca:** multi-seleção
+*	**Histórico de alterações:** check-box
+*	**Período**
+*	**Ordenação:** radio button
 
 <img width="781" height="377" alt="image" src="https://github.com/user-attachments/assets/6a5c9f6d-b731-41f6-a1e4-c564afb8cb54" />
 
@@ -159,22 +159,22 @@ Os resultados são apresentados de forma tabular e o relatório é composto por 
 
 **Configurações do relatório**
 
-- I_FK_UNIT → unidades (multi-seleção)
-- I_FK_SECTION → secções (multi-seleção)
-- I_FK_EMPLOYEE → colaboradores (multi-seleção)
-- I_BEGIN_DATE / I_END_DATE → período de criação / alteração
-- I_FK_CONTRACT_NUMBER → número de contrato (multi-seleção)
-- I_STATUS → estado da alteração (string / lista)
+- **I_FK_UNIT** → unidades (multi-seleção)
+- **I_FK_SECTION** → secções (multi-seleção)
+- **I_FK_EMPLOYEE** → colaboradores (multi-seleção)
+- **I_BEGIN_DATE / I_END_DATE** → período de criação / alteração
+- **I_FK_CONTRACT_NUMBER** → número de contrato (multi-seleção)
+- **I_STATUS** → estado da alteração (string / lista)
 
 **Filtros do relatório**
 
-*	Unidades: multi-seleção (OBRIGATORIO)
-*	Secção: multi-seleção
-*	Colaboradores: multi-seleção
-*	Tipo de contrato: multi-seleção
-*	Estado: drop-down
-*	Período de criação/alteração
-*	Ordenação: radio button
+*	**Unidades:** multi-seleção (OBRIGATORIO)
+*	**Secção:** multi-seleção
+*	**Colaboradores:** multi-seleção
+*	**Tipo de contrato:** multi-seleção
+*	**Estado:** drop-down
+*	**Período de criação/alteração**
+*	**Ordenação:** radio button
 
 <img width="826" height="400" alt="image" src="https://github.com/user-attachments/assets/7c138b8d-52ca-4d0e-b325-449700087854" />
 
@@ -214,19 +214,19 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 
 **Configurações do relatório**
 
-- I_FK_UNIT → unidades (multi)
-- I_FK_SECTION → secções (multi)
-- I_FK_EMPLOYEE → colaboradores (multi)
-- I_BEGIN_DATE / I_END_DATE → período
-- I_ABSENCE_REASON → motivo (1 / código)
+- **I_FK_UNIT** → unidades (multi)
+- **I_FK_SECTION** → secções (multi)
+- **I_FK_EMPLOYEE**→ colaboradores (multi)
+- **I_BEGIN_DATE / I_END_DATE** → período
+- **I_ABSENCE_REASON** → motivo (1 / código)
 
 **Filtros do relatório**
 
-* Unidades: multi-seleção (OBRIGATORIO)
-* Secções: multi-seleção
-* Colaboradores: multi-seleção
-* Motivo de Ausência: drop-down
-* Período
+* **Unidades:** multi-seleção (OBRIGATORIO)
+* **Secções:** multi-seleção
+* **Colaboradores:** multi-seleção
+* **Motivo de Ausência:** drop-down
+* **Período**
 
 <img width="776" height="358" alt="image" src="https://github.com/user-attachments/assets/bc0ec24d-7cee-4c4b-863c-a08ce4c71ab2" />
 
@@ -281,10 +281,10 @@ Os dados são apresentados em formato tabular e o relatório é composto por 16 
 
 **Filtros do relatório**
 
-*	Unidades: multi-seleção (OBRIGATORIO)
-*	Secções: multi-seleção
-*	Colaboradores: multi-seleção
-*	Colaboradores ativos: check-box
+*	**Unidades:** multi-seleção (OBRIGATORIO)
+*	**Secções:** multi-seleção
+*	**Colaboradores:** multi-seleção
+*	**Colaboradores ativos:** check-box
 
 <img width="806" height="372" alt="image" src="https://github.com/user-attachments/assets/46cbc0c0-a92c-47f7-8f41-0237a0037a1a" />
 
@@ -337,11 +337,11 @@ O relatório é composto por 8 colunas:
 
 **Filtros do relatório**
 
-*	Unidades: multi-seleção (OBRIGATÓRIO)
-*	Secções: multi-seleção
-*	Colaboradores: multi-seleção
-*	Período
-*	Ordenação: radio-button
+*	**Unidades:** multi-seleção (OBRIGATÓRIO)
+*	**Secções:** multi-seleção
+*	**Colaboradores:** multi-seleção
+*	**Período**
+*	**Ordenação:** radio-button
 
 <img width="781" height="361" alt="image" src="https://github.com/user-attachments/assets/e9147cd4-956f-421d-8897-3de286872532" />
 
@@ -393,10 +393,10 @@ Os dados são apresentados em formato tabular e o relatório é composto por 13 
 
 **Filtros do relatório**
 
-*	Unidades: drop-down  (OBRIGATÓRIO)
-*	Secção: drop-down
-*	Colaboradores: drop-down
-*	Período
+*	**Unidades:** drop-down  (OBRIGATÓRIO)
+*	**Secção:** drop-down
+*	**Colaboradores:** drop-down
+*	**Período**
   
 <img width="816" height="378" alt="image" src="https://github.com/user-attachments/assets/f97d08c2-5590-44dd-b9d3-94184e32d4fd" />
 
@@ -449,11 +449,11 @@ Os dados são apresentados em formato tabular e o relatório é composto pelas s
 
 **Filtros do relatório**
 
-*	Unidades: multi-seleção (OBRIGATÓRIO)
-*	Secções: multi-seleção
-*	Colaboradores: multi-seleção
-*	Motivo de ausência: drop-down
-*	Período
+*	**Unidades:** multi-seleção (OBRIGATÓRIO)
+*	**Secções:** multi-seleção
+*	**Colaboradores:** multi-seleção
+*	**Motivo de ausência**: drop-down
+*	**Período**
 
 **Informação técnica**
 
@@ -503,12 +503,12 @@ Cada linha da tabela corresponde a um registo individual de compensação associ
 
 **Filtros do relatório**
 
-*	Unidades: multi-seleção (OBRIGATÓRIO)
-*	Secção: multi-seleção
-*	Colaboradores: multi-seleção
-*	Motivo de Compensação: drop-down
-*	Período
-*	Colaborador ATIVOS/INATIVOS: radio button
+*	**Unidades:** multi-seleção (OBRIGATÓRIO)
+*	**Secção:** multi-seleção
+*	**Colaboradores:** multi-seleção
+*	**Motivo de Compensação:** drop-down
+*	**Período**
+*	**Colaborador ATIVOS/INATIVOS:** radio button
 
 <img width="757" height="352" alt="image" src="https://github.com/user-attachments/assets/f5020a2c-28b2-4879-b899-225945a00c25" />
 
@@ -565,14 +565,14 @@ Cada linha da tabela corresponde a um contingente específico aplicado a um cola
 
 **Filtros do relatório**
 
-•	Unidades: multi-seleção (OBRIGATÓRIO)
-•	Secções: multi-seleção
-•	Colaboradores: multi-seleção
-•	Contingentes: multi-seleção
-•	Ano: multi-seleção
-•	Contingente exclusivo do ano: check-box
-•	Filtro por data de validade /data de dedução: radio-button
-•	Colaborador ATIVOS/INATIVOS: radio button
+*	**Unidades:** multi-seleção (OBRIGATÓRIO)
+*	**Secções:** multi-seleção
+*	**Colaboradores:** multi-seleção
+*	**Contingentes:** multi-seleção
+*	**Ano:** multi-seleção
+*	**Contingente exclusivo do ano:** check-box
+*	**Filtro por data de validade /data de dedução:** radio-button
+*	**Colaborador ATIVOS/INATIVOS:** radio button
 
 <img width="826" height="379" alt="image" src="https://github.com/user-attachments/assets/9ddf88f3-d82a-45f2-aa5e-2ba9ade4697c" />
 
@@ -607,10 +607,10 @@ Os dados são apresentados em formato tabular e o relatório é composto por 9 c
 - **Data de Demissão** -- data em que o colaborador foi demitido
 - **Cargo** -- função/cargo desempenhado pelo colaborador
 - **Carga Semanal** -- carga horária semanal contratual
+
 Cada linha da tabela corresponde a um colaborador contratado ou demitido no período selecionado.
 
 <img width="886" height="188" alt="image" src="https://github.com/user-attachments/assets/80115dea-e2b5-42f4-87c4-bd074cbeaa0c" />
-
 
 **Configurações do relatório**
 
@@ -621,10 +621,10 @@ Cada linha da tabela corresponde a um colaborador contratado ou demitido no per�
 
 **Filtros do relatório**
 
-*	Unidades: drop-down
-*	Secções: drop-down
-*	Colaboradores: drop-down
-*	Período
+*	**Unidades:** drop-down
+*	**Secções:** drop-down
+*	**Colaboradores:** drop-down
+*	**Período**
 
 <img width="796" height="366" alt="image" src="https://github.com/user-attachments/assets/65d916a3-a1e9-4e11-9dee-00df1f54a29e" />
 
@@ -658,6 +658,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 - **Dias de Trabalho por Semana** -- número de dias de trabalho semanais, com valores de **início** e **máximo**
 - **Nº de Dias com Intervalo** -- número de dias com intervalo, com valores de **início** e **máximo**
 - **IHT** -- indicação se o colaborador tem **Isenção de Horário de Trabalho** (Sim/Não)
+
 Cada linha corresponde a um colaborador e ao respetivo contrato ativo ou histórico, conforme os filtros aplicados.
 
 <img width="886" height="331" alt="image" src="https://github.com/user-attachments/assets/470002e0-497e-4e54-83de-91a4da376b6c" />
@@ -672,11 +673,11 @@ Cada linha corresponde a um colaborador e ao respetivo contrato ativo ou histór
 
 **Filtros do relatório**
 
-*	Unidades: multi-seleção (OBRIGATÓRIO)
-*	Secção: multi-seleção
-*	Colaboradores: multi-seleção
-*	Tipo de contrato: drop-down
-*	Ordenação: radio button
+*	**Unidades:** multi-seleção (OBRIGATÓRIO)
+*	**Secção:** multi-seleção
+*	**Colaboradores:** multi-seleção
+*	**Tipo de contrato:** drop-down
+*	**Ordenação:** radio button
 
 <img width="794" height="367" alt="image" src="https://github.com/user-attachments/assets/dd30583d-a962-4a77-8ede-cf4c80141d0d" />
 
@@ -700,7 +701,6 @@ No cabeçalho, o relatório apresenta a unidade, a secção e o período selecio
 
 Os dados são apresentados em formato tabular e o relatório é composto por 7 colunas:
 
-
 - **Nº Mecanográfico** -- número identificativo do colaborador
 - **Colaborador** -- nome do colaborador
 - **Motivo de Ausência** -- motivo associado à ausência
@@ -713,20 +713,20 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 
 **Configurações do relatório**
 
-- i_fk_units → unidades (multi)
-- i_fk_sections → secções (multi)
-- i_fk_absence_reason → motivo de ausência (string)
-- i_begin_date / i_end_date → período
-- i_employee_filter → filtro adicional (ativos / inativos / todos)
+- **i_fk_units** → unidades (multi)
+- **i_fk_sections** → secções (multi)
+- **i_fk_absence_reason** → motivo de ausência (string)
+- **i_begin_date / i_end_date** → período
+- **i_employee_filter** → filtro adicional (ativos / inativos / todos)
 
 **Filtros do relatório**
 
-*	Unidades: multi-seleção (OBRIGATÓRIO)
-*	Secções: multi-seleção
-*	Motivo de ausência: drop-down
-*	Período
-*	Colaboradores ATIVOS/INATIVOS : radio-button
-*	Ordenação (nome/número mecanográfico/ data): radio button
+*	**Unidades:** multi-seleção (OBRIGATÓRIO)
+*	**Secções:** multi-seleção
+*	**Motivo de ausência:** drop-down
+*	**Período**
+*	**Colaboradores ATIVOS/INATIVOS:** radio-button
+*	**Ordenação (nome/número mecanográfico/ data):** radio button
 
 <img width="805" height="371" alt="image" src="https://github.com/user-attachments/assets/95410628-1699-4dae-8789-8161869347e8" />
 
@@ -760,23 +760,22 @@ Os dados são apresentados em formato tabular e incluem:
  
 <img width="886" height="203" alt="image" src="https://github.com/user-attachments/assets/6203dd36-0ec6-4fdf-9b29-faf3f0127575" />
 
-
 **Configurações do relatório**
 
-- i_Fk_Unidade → unidade (single)
-- i_Fk_Secao → secções (multi)
-- i_Fk_Tipo_Posto → tipos de posto (multi)
-- i_Data_Ini / i_Data_Fim → período
-- i_Data → data de referência
-- i_idioma → idioma
-- i_dif_carga → filtro de diferença de carga (T = todos, S = apenas com diferença, N = sem diferença)
+- **i_Fk_Unidade** → unidade (single)
+- **i_Fk_Secao** → secções (multi)
+- **i_Fk_Tipo_Posto** → tipos de posto (multi)
+- **i_Data_Ini / i_Data_Fim** → período
+- **i_Data** → data de referência
+- **i_idioma** → idioma
+- **i_dif_carga** → filtro de diferença de carga (T = todos, S = apenas com diferença, N = sem diferença)
 
 **Filtros do relatório**
 
-*	Unidades: drop-down (OBRIGATÓRIO)
-*	Secção: drop-down
-*	Com diferença de carga (todos/sim/não): radio-button
-*	Período
+*	**Unidades:** drop-down (OBRIGATÓRIO)
+*	**Secção:** drop-down
+*	**Com diferença de carga (todos/sim/não):** radio-button
+*	**Período**
 
 <img width="886" height="407" alt="image" src="https://github.com/user-attachments/assets/93764e33-d163-45f4-9f93-6b79d2c7604e" />
 
@@ -812,18 +811,19 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 
 **Configurações do relatório**
 
-- i_fk_unit → unidade (single)
-- i_fk_section → secções
-- i_fk_employee → colaboradores
-- i_begin_date / i_end_date → período
+- **i_fk_unit** → unidade (single)
+- **i_fk_section** → secções
+- **i_fk_employee** → colaboradores
+- **i_begin_date / i_end_date** → período
 
-Filtros do relatório
-*	Unidades: drop-down (OBRIGATÓRIO)
-*	Secção: drop-down
-*	Colaboradores: drop-down
-*	Parâmetros legais: drop-down
-*	Período
-*	Ordenação (nome/número mecanográfico/ data): radio button
+**Filtros do relatório**
+
+*	**Unidades:** drop-down (OBRIGATÓRIO)
+*	**Secção:** drop-down
+*	**Colaboradores:** drop-down
+*	**Parâmetros legais:** drop-down
+*	**Período**
+*	**Ordenação (nome/número mecanográfico/ data):** radio button
 
 <img width="750" height="343" alt="image" src="https://github.com/user-attachments/assets/e1fefe20-a201-4078-a352-51627274686e" />
 
@@ -838,7 +838,47 @@ Filtros do relatório
 
 ## Domingos e Feriados com Horas Complementares
 
-Falta completar devido a erro em TST05.
+O relatório **Domingos e Feriados com Horas Complementares** é um documento formal de comunicação e registo de trabalho em domingos, feriados e horas complementares, utilizado para informar e validar previamente os dias e horários em que o colaborador irá prestar trabalho adicional, com base num pacto de horas complementares previamente acordado. Serve como comprovativo administrativo e legal do agendamento dessas horas.
+
+O corpo do documento apresenta:
+
+-	Referência explícita ao pacto de horas complementares existente
+-	Comunicação formal dos dias de trabalho previstos
+-	Para cada registo são indicados:
+    - Dia e data
+    - Identificação do dia da semana
+    - Horário de trabalho
+
+Os dias encontram-se numerados e organizados cronologicamente, garantindo clareza e fácil leitura.
+
+O documento inclui ainda:
+
+-	Assinatura do responsável que emite a comunicação
+-	Campo de recebido pelo colaborador, confirmando a tomada de conhecimento
+
+<img width="817" height="484" alt="image" src="https://github.com/user-attachments/assets/0ab3488b-e19b-4842-81c8-8e638a7a0fd1" />
+
+**Configurações do relatório**
+
+-	**I_fk_unit** → unidade (multi)
+-	**I_fk_section** → secções (multi)
+-	**I_fk_employee** → colaboradores (multi)
+-	**I_year** → ano
+
+**Filtros do relatório**
+
+*	**Unidades:** multi-seleção (OBRIGATÓRIO)
+*	**Secções:** multi-seleção
+*	**Colaboradores:** multi-seleção
+*	**Ano: drop-down**
+
+<img width="800" height="368" alt="image" src="https://github.com/user-attachments/assets/50b8e728-bc23-4704-8d84-5c838ed260ed" />
+
+**Informação técnica**
+-	**Nome do relatório:** Domingos e Feriados com Horas Complementares
+-	**Key:** AddicionalHours
+-	**Função:** S_PCK_CORE_REPORTS.GET_DOM_FER_HC
+-	**Local de impressão:** Módulo “relatórios” 
 
 ---
 
@@ -879,14 +919,14 @@ Os dados são apresentados em formato tabular e o relatório é composto por 11 
 
 **Filtros do relatório**
 
-*	Unidades: drop-down (OBRIGATÓRIO)
-*	Secções: drop-down
-*	Colaboradores: drop-down
-*	Ano: drop-down
-*	Somente colaboradores ativos: check-box
-*	Colaboradores que ainda não atingiram os valores (todos / domingos / fins de semana): radio button
-*	Contratos (Todos / 5 dias de trabalho): radio button
-*	Ordenação: radio button
+*	**Unidades:** drop-down (OBRIGATÓRIO)
+*	**Secções:** drop-down
+*	**Colaboradores:** drop-down
+*	**Ano:** drop-down
+*	**Somente colaboradores ativos:** check-box
+*	**Colaboradores que ainda não atingiram os valores (todos / domingos / fins de semana):** radio button
+*	**Contratos (Todos / 5 dias de trabalho):** radio button
+*	**Ordenação:** radio button
   
 <img width="775" height="358" alt="image" src="https://github.com/user-attachments/assets/3b24f0db-923c-443c-a25d-7ab75380e1bb" />
 
@@ -935,14 +975,14 @@ Os dados são apresentados em formato tabular e o relatório é composto por 11 
 
 **Filtros do relatório**
 
-*	Unidades: multi-seleção (OBRIGATÓRIO)
-*	Secções: multi-seleção
-*	Colaboradores: multi-seleção
-*	Tipo de relatório: drop-down
-*	Horário de saída: drop-down
-*	Período (obrigatoriedade de uma semana)
-*	Planeamento extra: check-box
-*	Ordenação: radio button
+*	**Unidades:** multi-seleção (OBRIGATÓRIO)
+*	**Secções:** multi-seleção
+*	**Colaboradores:** multi-seleção
+*	**Tipo de relatório:** drop-down
+*	**Horário de saída:** drop-down
+*	**Período** (obrigatoriedade de uma semana)
+*	**Planeamento extra:** check-box
+*	**Ordenação:** radio button
 
 <img width="755" height="348" alt="image" src="https://github.com/user-attachments/assets/ce1a3e8d-0a16-4b79-861a-e56782c86aad" />
 
@@ -980,14 +1020,14 @@ A estrutura do relatório, colunas apresentadas e organização por secção sã
 
 **Filtros do relatório**
 
-*	Unidades: multi-seleção (OBRIGATÓRIO)
-*	Secções: multi-seleção
-*	Colaboradores: multi-seleção
-*	Tipo de relatório: drop-down
-*	Horário de saída: drop-down
-*	Período (obrigatoriedade de uma semana)
-*	Planeamento extra: check-box
-*	Ordenação: radio button
+*	**Unidades:** multi-seleção (OBRIGATÓRIO)
+*	**Secções:** multi-seleção
+*	**Colaboradores:** multi-seleção
+*	**Tipo de relatório**: drop-down
+*	**Horário de saída:** drop-down
+*	**Período** (obrigatoriedade de uma semana)
+*	**Planeamento extra:** check-box
+*	**Ordenação:** radio button
 
 <img width="665" height="307" alt="image" src="https://github.com/user-attachments/assets/ccfb0f05-2a3f-4ec5-82c0-f220f053ca6b" />
 
@@ -1025,18 +1065,18 @@ Os dados são apresentados em formato tabular e o relatório é composto por 8 c
 
 **Configurações do relatório**
 
-- I_FK_UNIT → unidade (single)
-- I_FK_SECTION → secções
-- I_FK_EMPLOYEE → colaboradores
-- I_YEAR → ano
-- I_MONTH → mês
+- **I_FK_UNIT** → unidade (single)
+- **I_FK_SECTION** → secções
+- **I_FK_EMPLOYEE** → colaboradores
+- **I_YEAR** → ano
+- **I_MONTH** → mês
 
 **Filtros do relatório**
 
-*	Unidades: drop-down (OBRIGATÓRIO)
-*	Secções: drop-down
-*	Colaboradores: drop-down
-*	Período: mês (drop-down) e ano (drop-down)
+*	**Unidades:** drop-down (OBRIGATÓRIO)
+*	**Secções:** drop-down
+*	**Colaboradores:** drop-down
+*	**Período:** mês (drop-down) e ano (drop-down)
   
 <img width="737" height="340" alt="image" src="https://github.com/user-attachments/assets/7c3a0ae7-40a8-460a-a40b-75a2e1d26996" />
 
@@ -1070,17 +1110,17 @@ Os dados são apresentados em formato tabular e o relatório é composto por 4 c
 
 **Configurações do relatório**
 
-- I_FK_UNIT → unidade
-- I_FK_SECTION → secções
-- I_FK_EMPLOYEE → colaboradores
-- I_BEGIN_DATE / I_END_DATE → período
+- **I_FK_UNIT** → unidade
+- **I_FK_SECTION** → secções
+- **I_FK_EMPLOYEE** → colaboradores
+- **I_BEGIN_DATE / I_END_DATE** → período
 
 **Filtros do relatório**
 
-*	Unidades: drop-down (OBRIGATÓRIO)
-*	Secções: drop-down
-*	Colaboradores: drop-down
-*	Período
+*	**Unidades:** drop-down (OBRIGATÓRIO)
+*	**Secções:** drop-down
+*	**Colaboradores:** drop-down
+*	**Período**
 
 <img width="728" height="332" alt="image" src="https://github.com/user-attachments/assets/2573f7f8-6a9f-4670-aaf2-faba111bbbb5" />
 
@@ -1134,16 +1174,16 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 
 **Filtros do relatório**
 
-*	Unidades: drop-down (OBRIGATÓRIO)
-*	Secções: drop-down
-*	Colaboradores: drop-down
-*	Tipo de posto: drop-down
-*	Período
-*	Planeamento extra: check-box
-*	Colaboradores (todos/presentes): radio button
-*	Polivalência (todos/secção/outra secção): radio button
-*	Ordenação: radio button
-*	Opções de impressão (por escala / sem quebra / automático): radio button
+*	**Unidades:** drop-down (OBRIGATÓRIO)
+*	**Secções:** drop-down
+*	**Colaboradores:** drop-down
+*	**Tipo de posto:** drop-down
+*	**Período**
+*	**Planeamento extra:** check-box
+*	**Colaboradores (todos/presentes):** radio button
+*	**Polivalência (todos/secção/outra secção):** radio button
+*	**Ordenação:** radio button
+*	**Opções de impressão (por escala / sem quebra / automático):** radio button
 
 <img width="802" height="371" alt="image" src="https://github.com/user-attachments/assets/bd7c210f-3c1f-4e50-b471-49a2729aaff4" />
 
@@ -1180,24 +1220,24 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 
 **Configurações do relatório**
 
-- I_FK_UNIT → unidades (multi)
-- I_FK_SECTION → secções (multi)
-- I_FK_EMPLOYEE → colaboradores (multi)
-- I_YEAR → ano
-- I_MONTH → mês
-- I_ISACTIVE → estado do colaborador
-- I_FK_STATE → estados
-- I_IDIOMA → idioma
+- **I_FK_UNIT** → unidades (multi)
+- **I_FK_SECTION** → secções (multi)
+- **I_FK_EMPLOYEE** → colaboradores (multi)
+- **I_YEAR** → ano
+- **I_MONTH** → mês
+- **I_ISACTIVE** → estado do colaborador
+- **I_FK_STATE** → estados
+- **I_IDIOMA** → idioma
 
 **Filtros do relatório**
 
-*	Unidades: multi-seleção (OBRIGATÓRIO)
-*	Secções: multi-seleção
-*	Colaboradores: multi-seleção
-*	Estado: multi-seleção
-*	Período: mês (drop-down) e ano (drop-down)
-*	Somente colaboradores ativos: check-box
-*	Ordenação: radio button
+*	**Unidades:** multi-seleção (OBRIGATÓRIO)
+*	**Secções:** multi-seleção
+*	**Colaboradores:** multi-seleção
+*	**Estado:** multi-seleção
+*	**Período:** mês (drop-down) e ano (drop-down)
+*	**Somente colaboradores ativos:** check-box
+*	**Ordenação:** radio button
 
 <img width="775" height="359" alt="image" src="https://github.com/user-attachments/assets/65ca67fc-dcee-488e-9ddc-8c7df6a098cd" />
 
@@ -1228,21 +1268,21 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 - **Estimativas** -- valor estimado
 - **% Evento** -- percentagem associada a eventos
 - **Vendas Realizadas** -- (itens,valor)
--  **Desvio % Realizado / Forecast Evento**
+- **Desvio % Realizado / Forecast Evento**
 
 <img width="886" height="112" alt="image" src="https://github.com/user-attachments/assets/7ecf798d-6507-4ef2-bd28-6ab8c343465b" />
 
 **Configurações do relatório**
 
-- i_fk_unit → unidade (single)
-- i_fk_section → secções (multi)
-- i_begin_date / i_end_date → período
+- **i_fk_unit** → unidade (single)
+- **i_fk_section** → secções (multi)
+- **i_begin_date / i_end_date** → período
 
 **Filtros do relatório**
 
-*	Unidades: drop-down (OBRIGATÓRIO)
-*	Secções: drop-down
-*	Período
+*	**Unidades:** drop-down (OBRIGATÓRIO)
+*	**Secções:** drop-down
+*	**Período**
   
 <img width="772" height="357" alt="image" src="https://github.com/user-attachments/assets/8f120684-4b75-4c18-b6fd-b633539e9b5f" />
 
@@ -1286,13 +1326,12 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 
 **Filtros do relatório**
 
-* Unidades: multi-seleção (OBRIGATÓRIO)
-* Secções: multi-seleção
-* Colaboradores: multi-seleção
-* Período (ano): drop-down
+* **Unidades:** multi-seleção (OBRIGATÓRIO)
+* **Secções:** multi-seleção
+* **Colaboradores:** multi-seleção
+* **Período (ano):** drop-down
 
 <img width="718" height="330" alt="image" src="https://github.com/user-attachments/assets/abe1a020-8ff4-4532-89f3-33e9224bca14" />
-
 
 **Informação técnica**
 
@@ -1335,18 +1374,18 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 
 **Configurações do relatório**
 
-- I_fk_unit → unidades
-- I_fk_secao → secções (multi)
-- I_fk_grupo → colaboradores (multi)
-- I_data → periodo
+- **I_fk_unit** → unidades
+- **I_fk_secao** → secções (multi)
+- **I_fk_grupo** → colaboradores (multi)
+- **I_data** → periodo
 
 **Filtros do relatório**
 
-* Unidades: drop-down (OBRIGATÓRIO)
-* Secções: multi-seleção
-* Grupos: multi-seleção
-* Parâmetros legais: drop-down
-* Data
+* **Unidades:** drop-down (OBRIGATÓRIO)
+* **Secções**: multi-seleção
+* **Grupos:** multi-seleção
+* **Parâmetros legais:** drop-down
+* **Data**
 
 <img width="723" height="334" alt="image" src="https://github.com/user-attachments/assets/50e1eea3-6496-4ffa-a781-b2e6a37f1b06" />
 
@@ -1386,12 +1425,12 @@ Os dados são apresentados em formato tabular e o relatório é composto por 9 c
 
 **Filtros do relatório**
 
-* Unidades: drop-down (OBRIGATÓRIO)
-* Secções: drop-down
-* Colaboradores: drop-down
-* Período
-* Planeamento Extra: check-box
-* Opções de impressão (por escala / sem quebra / automático): radio button
+* **Unidades:** drop-down (OBRIGATÓRIO)
+* **Secções:** drop-down
+* **Colaboradores:** drop-down
+* **Período**
+* **Planeamento Extra:** check-box
+* **Opções de impressão (por escala / sem quebra / automático):** radio button
 
 <img width="743" height="342" alt="image" src="https://github.com/user-attachments/assets/9ce7c4d6-8b4b-478f-a468-69a58a27f0a1" />
 
@@ -1423,12 +1462,12 @@ A estrutura de apresentação é idêntica ao relatório base, sendo ajustados o
 
 **Filtros do relatório**
 
-* Unidades: drop-down (**OBRIGATÓRIO**)
-* Secções: drop-down
-* Colaboradores: drop-down
-* Período
-* Planeamento Extra: check-box
-* Opções de impressão: radio button
+* **Unidades:** drop-down (**OBRIGATÓRIO**)
+* **Secções:** drop-down
+* **Colaboradores:** drop-down
+* **Período**
+* **Planeamento Extra:** check-box
+* **Opções de impressão:** radio button
 
 <img width="740" height="342" alt="image" src="https://github.com/user-attachments/assets/74eb1ad1-a729-4ca5-b7dd-eb54215ad4b6" />
 
@@ -1449,6 +1488,7 @@ O relatório **Incumprimentos Legais** apresenta uma listagem de todos os colabo
 Este relatório permite identificar quais os parâmetros legais que não foram cumpridos, o valor legal estipulado e a duração do incumprimento.
 
 **Parâmetros legais:** 
+
 •	**Dias de trabalho consecutivos** - Refere-se à violação das normas legais que estabelecem o número máximo de dias seguidos que um trabalhador pode laborar sem descanso semanal obrigatório. São vários dias seguidos em que um trabalhador exerce atividade profissional sem interrupção por um dia de descanso. A lei estabelece que o trabalhador deve ter pelo menos um dia de descanso por semana, que pode variar. 
 •	**Horas de trabalho consecutivas** - Refere-se à violação das regras legais que limitam o número de horas que um trabalhador pode exercer a sua atividade de forma contínua, sem pausas ou intervalos obrigatórios. São horas trabalhadas seguidas, sem interrupção para descanso ou refeição. A lei define um limite máximo de horas consecutivas que uma pessoa pode trabalhar, e também obriga a pausas (intervalos) após esse limite. 
 •	**Período de descanso entre turnos** - Refere-se à violação das normas legais que estabelecem o intervalo mínimo obrigatório de descanso entre dois turnos de trabalho consecutivos de um trabalhador. É o tempo mínimo de descanso que um trabalhador deve ter entre o fim de uma jornada de trabalho e o início da próxima). 
@@ -1481,15 +1521,14 @@ Os dados são apresentados em formato tabular e o relatório é composto por 8 c
 
 **Filtros do relatório**
 
-* Unidades: drop-down (OBRIGATÓRIO)
-* Secções: drop-down
-* Colaboradores: drop-down
-* Parâmetros legais: drop-down
-* Período
-* Ordenação: radio button
+* **Unidades:** drop-down (OBRIGATÓRIO)
+* **Secções:** drop-down
+* **Colaboradores:** drop-down
+* **Parâmetros legais:** drop-down
+* **Período**
+* **Ordenação:** radio button
 
 <img width="754" height="349" alt="image" src="https://github.com/user-attachments/assets/3a567d18-53ca-4c12-9d95-b0ab4defd92a" />
-
 
 **Informação técnica**
 
@@ -1519,18 +1558,18 @@ Adicionalmente, o relatório inclui:
 
 **Configurações do relatório**
 
-- i_fk_unit → unidade (single)
-- i_fk_section → secções (multi)
-- i_fk_employee → colaboradores (multi)
-- i_year → ano
+- **i_fk_unit** → unidade (single)
+- **i_fk_section** → secções (multi)
+- **i_fk_employee** → colaboradores (multi)
+- **i_year** → ano
 
 **Filtros do relatório**
 
-* Unidade: drop-down (OBRIGATÓRIO)
-* Secções: multi-seleção
-* Colaboradores: multi-seleção
-* Ano: drop-down
-* Ordenação: radio button
+* **Unidade:** drop-down (OBRIGATÓRIO)
+* **Secções:** multi-seleção
+* **Colaboradores:** multi-seleção
+* **Ano:** drop-down
+* **Ordenação:** radio button
   
 <img width="739" height="341" alt="image" src="https://github.com/user-attachments/assets/12b06bd9-d445-44fc-9205-a68eac162d88" />
 
@@ -1565,22 +1604,22 @@ A informação é apresentada num formato semelhante a um calendário, facilitan
 
 **Configurações do relatório**
 
-- i_fk_unit → unidade (single)
-- i_fk_section → secção (single)
-- i_fk_group → grupos
-- i_fk_colab → colaboradores
-- i_month → mês
-- i_year → ano
-- i_data_type → tipo de dados
+- **i_fk_unit** → unidade (single)
+- **i_fk_section** → secção (single)
+- **i_fk_group** → grupos
+- **i_fk_colab** → colaboradores
+- **i_month** → mês
+- **i_year** → ano
+- **i_data_type** → tipo de dados
 
 **Filtros do relatório**
 
-* Unidade: drop-down (OBRIGATÓRIO)
-* Secção: drop-down (OBRIGATÓRIO)
-* Grupos: drop-down
-* Colaboradores: drop-down
-* Ano: drop-down
-* Informação a imprimir:
+* **Unidade:** drop-down (OBRIGATÓRIO)
+* **Secção:** drop-down (OBRIGATÓRIO)
+* **Grupos:** drop-down
+* **Colaboradores:** drop-down
+* **Ano:** drop-down
+* **Informação a imprimir:**
   * Mapa completo
   * Domingos e feriados livres
 
@@ -1617,17 +1656,17 @@ A informação é apresentada num formato semelhante a um calendário mensal, fa
 
 **Configurações do relatório**
 
-- i_year → ano
-- i_month → mês
+- **i_year** → ano
+- **i_month** → mês
 
 **Filtros do relatório**
 
-* Unidade: drop-down (OBRIGATÓRIO)
-* Secção: drop-down (OBRIGATÓRIO)
-* Grupos: drop-down
-* Colaboradores: drop-down
-* Ano: drop-down
-* Informação a imprimir:
+* **Unidade:** drop-down (OBRIGATÓRIO)
+* **Secção:** drop-down (OBRIGATÓRIO)
+* **Grupos:** drop-down
+* **Colaboradores:** drop-down
+* **Ano:** drop-down
+* **Informação a imprimir:**
   * Mapa completo
   * Domingos e feriados livres
 
@@ -1659,36 +1698,36 @@ Para cada movimento registado, o relatório identifica:
 
 **Colunas do relatório**
 
-1. Nº Mecanográfico
-2. Colaborador
-3. Data
-4. Código do contingente
-5. Contingente
-6. Tipo (Compensação / Dedução)
-7. Valor
-8. Unidade de Medida
+**1.** Nº Mecanográfico
+**2.** Colaborador
+**3.** Data
+**4.** Código do contingente
+**5.** Contingente
+**6.** Tipo (Compensação / Dedução)
+**7.** Valor
+**8.** Unidade de Medida
 
 <img width="886" height="89" alt="image" src="https://github.com/user-attachments/assets/9b0c6407-c8c3-4e3d-b28e-e422ef80f054" />
 
 **Configurações do relatório**
 
-- i_fk_unit, i_fk_section, i_fk_employee
-- i_is_active → só ativos (flag)
-- i_contingent → contingente
-- i_begin_date / i_end_date
-- i_mov_type → tipo de movimento
-- i_has_timemanagement → flag GT
+- **i_fk_unit, i_fk_section, i_fk_employee**
+- **i_is_active** → só ativos (flag)
+- **i_contingent** → contingente
+- **i_begin_date / i_end_date**
+- **i_mov_type** → tipo de movimento
+- **i_has_timemanagement **→ flag GT
 
 **Filtros do relatório**
 
-* Unidades: multi-seleção (OBRIGATÓRIO)
-* Secção: multi-seleção
-* Colaboradores: multi-seleção
-* Parametros legais: drop-down
-* Período
-* Contingente: drop-down
-* Tipo de movimento (todos,compensação,dedução): drop-down
-* Colaboradores: radio button
+* **Unidades:** multi-seleção (OBRIGATÓRIO)
+* **Secção:** multi-seleção
+* **Colaboradores:** multi-seleção
+* **Parametros legais:** drop-down
+* **Período**
+* **Contingente:** drop-down
+* **Tipo de movimento (todos,compensação,dedução):** drop-down
+* **Colaboradores:** radio button
 
 <img width="706" height="326" alt="image" src="https://github.com/user-attachments/assets/e7e735cc-8bdd-4f24-9293-ba45fa3b18d4" />
 
@@ -1734,19 +1773,19 @@ Os dados são apresentados em formato tabular e o relatório é composto por 16 
 
 **Configurações do relatório**
 
-- i_fk_unit → unidade
-- i_fk_section → secções
-- i_fk_employee → colaboradores
-- i_begin_date / i_end_date → período
-- i_collaborator_status → estado do colaborador
+- **i_fk_unit** → unidade
+- **i_fk_section** → secções
+- **i_fk_employee** → colaboradores
+- **i_begin_date / i_end_date** → período
+- **i_collaborator_status** → estado do colaborador
 
 **Filtros do relatório**
 
-* Unidade: drop-down (OBRIGATÓRIO)
-* Secção: drop-down
-* Colaboradores: drop-down
-* Colaboradores (Todos / Ativos / Inativos): radio button
-* Período
+* **Unidade:** drop-down (OBRIGATÓRIO)
+* **Secção:** drop-down
+* **Colaboradores:** drop-down
+* **Colaboradores (Todos / Ativos / Inativos):** radio button
+* **Período**
   
 <img width="763" height="348" alt="image" src="https://github.com/user-attachments/assets/8c8ff556-bd5f-417f-a24f-d6505eb43b0d" />
 
@@ -1788,21 +1827,21 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 
 **Configurações do relatório**
 
-- i_view_type → tipo de vista
-- i_only_active → só ativos
-- i_fk_unit → unidades
-- i_fk_section → secções
-- i_fk_profile → perfis
-- i_fk_employee → colaboradores
+- **i_view_type** → tipo de vista
+- **i_only_active** → só ativos
+- **i_fk_unit** → unidades
+- **i_fk_section** → secções
+- **i_fk_profile** → perfis
+- **i_fk_employee** → colaboradores
 
 **Filtros do relatório**
 
-* Unidades: drop-down (OBRIGATÓRIO)
-* Secções: drop-down
-* Colaboradores: drop-down
-* Perfis de acesso: drop-down
-* Somente utilizadores ativos: check-box
-* Ordenação: radio button
+* **Unidades:** drop-down (OBRIGATÓRIO)
+* **Secções:** drop-down
+* **Colaboradores:** drop-down
+* **Perfis de acesso:** drop-down
+* **Somente utilizadores ativos:** check-box
+* **Ordenação:** radio button
 
 <img width="775" height="358" alt="image" src="https://github.com/user-attachments/assets/415e052f-9000-487b-a97b-1dcbc9e26f11" />
 
@@ -1818,7 +1857,54 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 
 ## Petição de Férias
 
-*(conteúdo não fornecido)*
+**Petição de Férias** é um documento de pedido de férias, utilizado para registar, solicitar e autorizar os períodos de férias de um colaborador num determinado ano.
+
+Serve como controlo administrativo entre o colaborador, a chefia direta e os Recursos Humanos, garantindo que as férias são marcadas de acordo com o direito legal e com validação hierárquica.
+
+O cabeçalho do documento identifica o Pedido de Férias, indicando o ano de referência (2024) e a empresa, enquadrando o pedido no tempo e na entidade correta.
+
+De seguida, surge a identificação do colaborador:
+
+-	Nome completo
+-	Número mecanográfico
+-	Secção onde exerce funções
+-	Tipo de contrato/horário
+
+O documento apresenta ainda o direito a férias, indicando o número total de dias a que o colaborador tem direito no ano e, caso existam, as férias adicionais, servindo para controlar o saldo disponível. 
+
+Na área dos períodos de férias são registadas as datas de início e fim de cada período e o respetivo número de dias, sendo apresentado no final o total de dias já marcados, o que permite verificar os dias utilizados e os que ainda disponíveis. 
+
+O pedido só se torna válido após a assinatura do colaborador e do superior hierárquico, com indicação das respetivas datas. 
+
+Existe também uma secção destinada a alterações, onde podem ser registadas mudanças posteriores aos períodos aprovados, com indicação do novo período, número de dias e autorização hierárquica, garantindo o histórico do pedido. 
+
+Por fim, o documento inclui notas finais com orientações sobre a utilização e alteração das férias, a prioridade entre férias do ano e férias adicionais, bem como a data de impressão do documento.
+
+<img width="886" height="974" alt="image" src="https://github.com/user-attachments/assets/81102140-bcc4-4b53-b0ea-4ab6fb3ad6e8" />
+
+**Configurações do relatório**
+
+-	**I_FK_UNIT** → unidade
+-	**I_FK_SECTION** → secções
+-	**I_FK_EMPLOYEE** → colaboradores
+-	**I_BEGIN_DATE** / I_END_DATE → período
+
+**Filtros do relatório**
+
+-	**Unidades:** drop-down (OBRIGATÓRIO)
+-	**Secções:** drop-down
+-	**Colaboradores:** drop-down
+-	**Período (ano):** drop-down
+
+<img width="743" height="342" alt="image" src="https://github.com/user-attachments/assets/7c118cb3-c217-4af5-9f61-0e2ae9dd669d" />
+
+**Informação técnica**
+
+-	**Nome do relatório:** Petição de Férias
+-	**Key:** Punch
+-	**Função:** S_PCK_CORE_EXECUTION_REPORTS.Get_picagens
+-	**Local de impressão:** Módulo “Relatórios”
+-	**Formatos disponíveis:** Excel, PDF
 
 ---
 
@@ -2097,11 +2183,11 @@ No final de cada secção é apresentado um resumo da carga horária semanal, on
 
 **Filtros do relatório**
 
-* Unidades: drop-down (OBRIGATÓRIO)
-* Secções: drop-down
-* Colaboradores: drop-down
-* Somente colaboradores ativos: check-box
-* Ordenação: radio button
+* **Unidades:** drop-down (OBRIGATÓRIO)
+* **Secções:** drop-down
+* **Colaboradores:** drop-down
+* **Somente colaboradores ativos:** check-box
+* **Ordenação:** radio button
 
 <img width="771" height="354" alt="image" src="https://github.com/user-attachments/assets/43ae5a13-a7f2-4e05-841d-7893c3b4aeda" />
 
@@ -2148,11 +2234,11 @@ Os dados são apresentados em formato tabular, sendo cada linha correspondente a
 
 **Filtros do relatório**
 
-* Tipo: drop-down (OBRIGATÓRIO)
-* Unidades: drop-down (OBRIGATÓRIO)
-* Secções: drop-down
-* Período
-* Ordenação: radio button
+* **Tipo:** drop-down (OBRIGATÓRIO)
+* **Unidades:** drop-down (OBRIGATÓRIO)
+* **Secções:** drop-down
+* **Período**
+* **Ordenação:** radio button
 
 <img width="736" height="340" alt="image" src="https://github.com/user-attachments/assets/3b04452d-7a5f-42df-ae93-abf556b927b3" />
 
@@ -2196,11 +2282,11 @@ No final de cada colaborador é apresentado o total de dias de férias gozados n
 
 **Filtros do relatório**
 
-* Unidades: drop-down (OBRIGATÓRIO)
-* Secções: drop-down
-* Colaboradores: drop-down
-* Ano: drop-down
-* Ordenação: radio button
+* **Unidades:** drop-down (OBRIGATÓRIO)
+* **Secções:** drop-down
+* **Colaboradores:** drop-down
+* **Ano:** drop-down
+* **Ordenação:** radio button
 
 <img width="758" height="348" alt="image" src="https://github.com/user-attachments/assets/9cdbcf35-351d-4242-9d6b-77e89cc656fa" />
 
@@ -2246,10 +2332,10 @@ De seguida, é apresentada a lista de colaboradores afetos ao posto, com o segui
 
 **Filtros do relatório**
 
-* Unidades: drop-down (OBRIGATÓRIO)
-* Secções: drop-down
-* Período
-* Horário: obrigatório
+* **Unidades:** drop-down (OBRIGATÓRIO)
+* **Secções:** drop-down
+* **Período**
+* **Horário:** obrigatório
 
 <img width="747" height="344" alt="image" src="https://github.com/user-attachments/assets/fca537da-c8b9-4ed7-8477-ec1c66446016" />
 
@@ -2293,10 +2379,10 @@ Cada linha corresponde a um dia do período em análise.
 
 **Filtros do relatório**
 
-* Unidades: multi-seleção (OBRIGATÓRIO)
-* Secções: multi-seleção
-* Colaboradores: multi-seleção
-* Período
+* **Unidades:** multi-seleção (OBRIGATÓRIO)
+* **Secções:** multi-seleção
+* **Colaboradores:** multi-seleção
+* **Período**
 
 <img width="735" height="339" alt="image" src="https://github.com/user-attachments/assets/dcef638d-258a-4ea1-86f4-2ee639c259ae" />
 
@@ -2571,17 +2657,17 @@ Os dados são apresentados em formato tabular e o relatório contém os seguinte
 
 **Configurações do relatório**
 
-*	I_fk_unit → unidade (1)
-*	I_fk_secao → secções (multi)
-*	I_fk_grupo → grupos (multi)
-*	I_data → período
+-	**I_fk_unit** → unidade (1)
+-	**I_fk_secao** → secções (multi)
+-	**I_fk_grupo** → grupos (multi)
+-	**I_data** → período
 
 **Filtros do relatório**
 
-* Unidades: drop-down (OBRIGATÓRIO)
-* Secções: multi-seleção
-* Grupos: multi-seleção
-* Período/Data: data (dia)
+* **Unidades:** drop-down (OBRIGATÓRIO)
+* **Secções:** multi-seleção
+* **Grupos:** multi-seleção
+* **Período/Data:** data (dia)
 
 <img width="744" height="341" alt="image" src="https://github.com/user-attachments/assets/efca2807-f4ba-481d-ae9d-63e6b49f23b7" />
 
@@ -2614,19 +2700,19 @@ Os dados são apresentados em formato tabular e cada linha corresponde a um regi
 
 **Configurações do relatório**
 
-- i_idioma → idioma
-- i_fk_unit → unidade (1)
-- i_fk_section → secções (multi)
-- i_fk_employee → colaboradores (multi)
-- i_start_date / i_end_date → período
+- **i_idioma** → idioma
+- **i_fk_unit** → unidade (1)
+- **i_fk_section** → secções (multi)
+- **i_fk_employee** → colaboradores (multi)
+- **i_start_date / i_end_date** → período
 
 **Filtros do relatório**
 
-* Unidades: drop-down (OBRIGATÓRIO)
-* Secções: drop-down
-* Colaboradores: drop-down
-* Período
-* Ordenação: radio button
+* **Unidades:** drop-down (OBRIGATÓRIO)
+* **Secções:** drop-down
+* **Colaboradores:** drop-down
+* **Período**
+* **Ordenação:** radio button
   
 <img width="704" height="321" alt="image" src="https://github.com/user-attachments/assets/3744a831-fd01-4c97-9817-2ba966b661fc" />
 
@@ -2663,18 +2749,18 @@ Os dados são apresentados em formato tabular e cada linha corresponde a um regi
 
 **Configurações do relatório**
 
-- I_FK_UNIT → unidade (single)
-- I_FK_SECTION → secções
-- I_FK_EMPLOYEE → colaboradores
-- I_BEGIN_DATE / I_END_DATE → período
+- **I_FK_UNIT** → unidade (single)
+- **I_FK_SECTION** → secções
+- **I_FK_EMPLOYEE** → colaboradores
+- **I_BEGIN_DATE / I_END_DATE** → período
 
 **Filtros do relatório**
 
-* Unidades: drop-down (OBRIGATÓRIO)
-* Secções: drop-down
-* Colaboradores: drop-down
-* Período
-* Ordenação: radio button
+* **Unidades:** drop-down (OBRIGATÓRIO)
+* **Secções:** drop-down
+* **Colaboradores:** drop-down
+* **Período**
+* **Ordenação:** radio button
 
 <img width="721" height="330" alt="image" src="https://github.com/user-attachments/assets/8f4d4ef6-78fe-4e9d-88b3-de7ca4dc878e" />
 
@@ -2712,19 +2798,19 @@ No final de cada secção pode existir resumo com **totais por colaborador** e *
 
 **Configurações do relatório**
 
-- I_FK_UNIT → unidades (multi)
-- I_FK_SECTION → secções (multi)
-- I_FK_EMPLOYEE → colaboradores (multi)
-- I_BEGIN_DATE / I_END_DATE → período
-- I_LIST_DAYS → lista/tipo de dias (string)
+- **I_FK_UNIT** → unidades (multi)
+- **I_FK_SECTION** → secções (multi)
+- **I_FK_EMPLOYEE** → colaboradores (multi)
+- **I_BEGIN_DATE / I_END_DATE** → período
+- **I_LIST_DAYS** → lista/tipo de dias (string)
 
 **Filtros do relatório**
 
-* Unidades: multi-seleção
-* Secções: multi-seleção
-* Colaboradores: multi-seleção
-* Período
-* Lista dias (Todos os Dias/Só trabalho Suplementar): radio button
+* **Unidades:** multi-seleção
+* **Secções:** multi-seleção
+* **Colaboradores:** multi-seleção
+* **Período**
+* **Lista dias (Todos os Dias/Só trabalho Suplementar):** radio button
 
 <img width="716" height="332" alt="image" src="https://github.com/user-attachments/assets/0bd23ca6-500e-4429-b7e9-52aa9e9fca0b" />
 
@@ -2755,21 +2841,21 @@ Os dados são apresentados em formato tabular e cada linha corresponde a um regi
 
 **Configurações do relatório**
 
-- I_FK_UNIT → unidades (multi)
-- I_FK_SECTION → secções (multi)
-- I_FK_EMPLOYEE → colaboradores (multi)
-- I_FK_TEMPORARY_COMPANY → empresas de trabalho temporário (multi)
-- I_YEAR → ano
-- I_MONTH → mês
+- **I_FK_UNIT** → unidades (multi)
+- **I_FK_SECTION** → secções (multi)
+- **I_FK_EMPLOYEE** → colaboradores (multi)
+- **I_FK_TEMPORARY_COMPANY** → empresas de trabalho temporário (multi)
+- **I_YEAR** → ano
+- **I_MONTH** → mês
 
 **Filtros do relatório**
 
-* Unidades: multi-seleção
-* Secções: multi-seleção
-* Colaboradores: multi-seleção
-* Empresa trabalho temporário: multi-seleção
-* Período (mês/ano)
-* Ordenação: radio button
+* **Unidades:** multi-seleção
+* **Secções:** multi-seleção
+* **Colaboradores:** multi-seleção
+* **Empresa trabalho temporário:** multi-seleção
+* **Período** (mês/ano)
+* **Ordenação:** radio button
 
 <img width="693" height="317" alt="image" src="https://github.com/user-attachments/assets/f7e99449-477c-40a4-81ea-aba1ff253ecd" />
 
@@ -2806,18 +2892,18 @@ Os dados são apresentados em formato tabular e cada linha corresponde a uma alt
 
 **Configurações do relatório**
 
-- I_FK_UNIT → unidade
-- I_FK_SECTION → secções
-- I_FK_EMPLOYEE → colaboradores
-- I_BEGIN_DATE / I_END_DATE → período
+- **I_FK_UNIT** → unidade
+- **I_FK_SECTION** → secções
+- **I_FK_EMPLOYEE** → colaboradores
+- **I_BEGIN_DATE / I_END_DATE** → período
 
 **Filtros do relatório**
 
-* Unidades: drop-down (OBRIGATÓRIO)
-* Secções: drop-down
-* Colaboradores: drop-down
-* Período
-* Ordenação: radio button
+* **Unidades:** drop-down (OBRIGATÓRIO)
+* **Secções:** drop-down
+* **Colaboradores:** drop-down
+* **Período**
+* **Ordenação:** radio button
   
 <img width="752" height="340" alt="image" src="https://github.com/user-attachments/assets/5980f73e-34e5-4187-bded-be235f51541e" />
 
