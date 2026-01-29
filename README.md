@@ -49,7 +49,8 @@ A tabela do relatório é composta por **11 Colunas:**
 *	**Período**
 *	**Ordenação:** radio button
 
-<img width="1372" height="656" alt="image" src="https://github.com/user-attachments/assets/58cb8ae2-de30-4f33-a6d9-f0f83704a880" />
+<img width="1358" height="645" alt="image" src="https://github.com/user-attachments/assets/01e37f34-c373-49c2-a390-3daf9ab6a168" />
+
 
 **Informação técnica**
 
@@ -100,7 +101,7 @@ A tabela do relatório é composta por **12 colunas**:
 11. **Nº Troca** -- número identificativo da troca
 12. **Estado da Troca** -- estado atual da troca
 
-<img width="1872" height="299" alt="image" src="https://github.com/user-attachments/assets/d008b042-0764-4e71-94aa-4086653fe3e2" />
+<img width="1368" height="659" alt="image" src="https://github.com/user-attachments/assets/37df15ff-c85d-4f72-b721-a387854df365" />
 
 **Configurações do relatório**
 
@@ -174,7 +175,8 @@ Os resultados são apresentados de forma tabular e o relatório é composto por 
 *	**Período de criação/alteração**
 *	**Ordenação:** radio button
 
-<img width="1371" height="657" alt="image" src="https://github.com/user-attachments/assets/abed5ba5-3e20-42c5-b99b-89276773a09e" />
+<img width="1373" height="657" alt="image" src="https://github.com/user-attachments/assets/24aae661-8cf1-4119-b0a2-6f9ce6736557" />
+
 
 **Informação técnica**
 
@@ -225,7 +227,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 * **Motivo de Ausência:** drop-down
 * **Período**
 
-<img width="1370" height="657" alt="image" src="https://github.com/user-attachments/assets/1e27cb56-046e-40a8-a7f1-31cd2358ae49" />
+<img width="1370" height="656" alt="image" src="https://github.com/user-attachments/assets/b9ef0fec-d9d2-43a0-b443-410d8cb41c80" />
 
 **Informação técnica**
 
@@ -341,8 +343,7 @@ O relatório é composto por 8 colunas:
 *	**Período**
 *	**Ordenação:** radio-button
 
-<img width="1373" height="654" alt="image" src="https://github.com/user-attachments/assets/07295e37-468c-40ac-9c2c-ce3908d9a9ce" />
-
+<img width="1373" height="658" alt="image" src="https://github.com/user-attachments/assets/54a4a582-fc0a-433f-bb26-7d9e0b20418c" />
 
 **Informação técnica**
 
@@ -409,7 +410,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 13 
 
 ---
 
-## Colaboradores por Motivos de Ausências
+## Colaboradores por Motivos de Ausência
 
 O relatório **Colaboradores por Motivos de Ausência** apresenta todas as ausências registadas por colaborador, organizadas de acordo com o motivo da ausência, num determinado período de tempo. Este relatório permite analisar de forma detalhada os períodos de ausência, o respetivo enquadramento regulamentar e o impacto na dedução de dias.
 
@@ -433,7 +434,7 @@ Os dados são apresentados em formato tabular e o relatório é composto pelas s
 - **Utilizador** -- utilizador que efetuou o registo da ausência
 - **Data Criação** -- data em que a ausência foi registada no sistema
 
-<img width="886" height="390" alt="image" src="https://github.com/user-attachments/assets/5612245f-e5aa-4e66-acf8-9daa0a027400" />
+<img width="1872" height="150" alt="image" src="https://github.com/user-attachments/assets/e559b332-9a21-4a12-b278-72500c69b113" />
 
 
 **Configurações do relatório**
@@ -452,6 +453,8 @@ Os dados são apresentados em formato tabular e o relatório é composto pelas s
 *	**Colaboradores:** multi-seleção
 *	**Motivo de ausência**: drop-down
 *	**Período**
+
+<img width="1375" height="656" alt="image" src="https://github.com/user-attachments/assets/7818d3cc-f0c5-4b15-a2b7-5e599c172917" />
 
 **Informação técnica**
 
@@ -486,8 +489,7 @@ Os dados são apresentados em formato tabular e o relatório é composto pelas s
 - **Data de Criação** -- data em que o registo de compensação foi criado
 Cada linha da tabela corresponde a um registo individual de compensação associado a um colaborador.
 
-<img width="886" height="77" alt="image" src="https://github.com/user-attachments/assets/2ef5e76c-1ff6-4a00-9c10-445f95a0588b" />
-
+<img width="1874" height="144" alt="image" src="https://github.com/user-attachments/assets/efc737fd-f8a2-43e0-abee-909aa756b3c6" />
 
 **Configurações do relatório**
 
@@ -508,12 +510,11 @@ Cada linha da tabela corresponde a um registo individual de compensação associ
 *	**Período**
 *	**Colaborador ATIVOS/INATIVOS:** radio button
 
-<img width="757" height="352" alt="image" src="https://github.com/user-attachments/assets/f5020a2c-28b2-4879-b899-225945a00c25" />
-
+<img width="1361" height="649" alt="image" src="https://github.com/user-attachments/assets/cff52051-258e-4bce-94e0-32e0c3cadf73" />
 
 **Informação técnica**
 
-- **Nome do relatório:** Colaboradores por Motivos de Compensação
+- **Nome do relatório:**  por Motivos de Compensação
 - **Key:** CompensatoryDaysOff
 - **Função:** S_PCK_CORE_REPORTS.GET_COMPENSATIONS
 - **Local de impressão:** Módulo "relatórios"
@@ -523,7 +524,7 @@ Cada linha da tabela corresponde a um registo individual de compensação associ
 
 ## Contingentes
 
-O relatório **Contingentes** apresenta os contingentes atribuídos aos colaboradores, permitindo analisar, de forma detalhada, quais os contingentes aplicados, a que períodos dizem respeito, qual o direito atribuído, o que já foi deduzido e o saldo disponível.
+O relatório **Contingentes** apresenta os contingentes atribuídos aos , permitindo analisar, de forma detalhada, quais os contingentes aplicados, a que períodos dizem respeito, qual o direito atribuído, o que já foi deduzido e o saldo disponível.
 
 Este relatório é utilizado para controlo de contingentes como Férias, Banco de Horas, Faltas Injustificadas, Folgas por excesso de horas, entre outros, possibilitando acompanhar a evolução da utilização ao longo do tempo, bem como os períodos de validade e dedução associados.
 
@@ -546,9 +547,10 @@ Os dados são apresentados em formato tabular e o relatório é composto pelas s
 - **Saldo** -- saldo disponível após deduções
 - **Início da Dedução** -- data de início do período de dedução
 - **Fim da Dedução** -- data de fim do período de dedução
+
 Cada linha da tabela corresponde a um contingente específico aplicado a um colaborador.
 
-<img width="886" height="342" alt="image" src="https://github.com/user-attachments/assets/68fc14b7-c715-4c21-92b5-6e4386f98b51" />
+<img width="1858" height="496" alt="image" src="https://github.com/user-attachments/assets/cecedd41-b381-454d-9e7a-5bdf7fa6d09a" />
 
 **Configurações do relatório**
 
@@ -572,8 +574,7 @@ Cada linha da tabela corresponde a um contingente específico aplicado a um cola
 *	**Filtro por data de validade /data de dedução:** radio-button
 *	**Colaborador ATIVOS/INATIVOS:** radio button
 
-<img width="826" height="379" alt="image" src="https://github.com/user-attachments/assets/9ddf88f3-d82a-45f2-aa5e-2ba9ade4697c" />
-
+<img width="1382" height="666" alt="image" src="https://github.com/user-attachments/assets/660971d9-dae1-41c0-8d8c-33726a221364" />
 
 **Informação técnica**
 
@@ -608,7 +609,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 9 c
 
 Cada linha da tabela corresponde a um colaborador contratado ou demitido no período selecionado.
 
-<img width="886" height="188" alt="image" src="https://github.com/user-attachments/assets/80115dea-e2b5-42f4-87c4-bd074cbeaa0c" />
+<img width="1860" height="485" alt="image" src="https://github.com/user-attachments/assets/b192d5f6-acc5-445d-8bd3-a87182b305e9" />
 
 **Configurações do relatório**
 
@@ -624,7 +625,8 @@ Cada linha da tabela corresponde a um colaborador contratado ou demitido no per�
 *	**Colaboradores:** drop-down
 *	**Período**
 
-<img width="796" height="366" alt="image" src="https://github.com/user-attachments/assets/65d916a3-a1e9-4e11-9dee-00df1f54a29e" />
+<img width="1371" height="658" alt="image" src="https://github.com/user-attachments/assets/a00b373d-48e7-4fcd-91b9-9ecae94f79d6" />
+
 
 **Informação técnica**
 
@@ -677,7 +679,8 @@ Cada linha corresponde a um colaborador e ao respetivo contrato ativo ou histór
 *	**Tipo de contrato:** drop-down
 *	**Ordenação:** radio button
 
-<img width="794" height="367" alt="image" src="https://github.com/user-attachments/assets/dd30583d-a962-4a77-8ede-cf4c80141d0d" />
+<img width="1372" height="654" alt="image" src="https://github.com/user-attachments/assets/e7b4ee45-bb30-4bdf-9fcd-9fd5bca13898" />
+
 
 **Informação técnica**
 
