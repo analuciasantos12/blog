@@ -49,8 +49,7 @@ A tabela do relatório é composta por **11 Colunas:**
 *	**Período**
 *	**Ordenação:** radio button
 
-<img width="773" height="373" alt="image" src="https://github.com/user-attachments/assets/781a1dbd-d970-4f29-b47d-131ff75244ba" />
-
+<img width="1372" height="656" alt="image" src="https://github.com/user-attachments/assets/58cb8ae2-de30-4f33-a6d9-f0f83704a880" />
 
 **Informação técnica**
 
