@@ -266,7 +266,8 @@ Os dados são apresentados em formato tabular e o relatório é composto por 16 
 - **Horas a Pagar de BH** -- total de horas de banco de horas a pagar
 - **Horas Pagas** -- total de horas de banco de horas já pagas
 
-<img width="886" height="224" alt="image" src="https://github.com/user-attachments/assets/0f780490-1a7b-48d9-93b8-73c1f6bf0a53" />
+<img width="1879" height="410" alt="image" src="https://github.com/user-attachments/assets/e3cb74d2-d786-4581-b9d0-569cfaf9ec7e" />
+
 
 
 **Configurações do relatório**
