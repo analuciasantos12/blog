@@ -152,7 +152,7 @@ Os resultados são apresentados de forma tabular e o relatório é composto por 
 6.  **Data Fim CH** -- data em que termina a vigência da nova carga horária
 7.  **Estado** -- estado atual da alteração da carga horária
 
-<img width="886" height="153" alt="image" src="https://github.com/user-attachments/assets/f523d0fd-6600-46b9-bead-d1709356549b" />
+<img width="1906" height="495" alt="image" src="https://github.com/user-attachments/assets/2ad199be-e6ea-4909-82bb-576206a9623f" />
 
 
 **Configurações do relatório**
@@ -174,7 +174,7 @@ Os resultados são apresentados de forma tabular e o relatório é composto por 
 *	**Período de criação/alteração**
 *	**Ordenação:** radio button
 
-<img width="826" height="400" alt="image" src="https://github.com/user-attachments/assets/7c138b8d-52ca-4d0e-b325-449700087854" />
+<img width="1371" height="657" alt="image" src="https://github.com/user-attachments/assets/abed5ba5-3e20-42c5-b99b-89276773a09e" />
 
 **Informação técnica**
 
@@ -207,8 +207,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 9.  **Classificado por** -- utilizador que efetuou a classificação da ausência
 10. **Classificado em** -- data em que a ausência foi classificada
 
-<img width="886" height="264" alt="image" src="https://github.com/user-attachments/assets/75936469-ae7d-4fa9-b526-3242d578a4d3" />
-
+<img width="1861" height="468" alt="image" src="https://github.com/user-attachments/assets/a4ced93d-3800-4c33-8757-90ef4b45c263" />
 
 **Configurações do relatório**
 
@@ -226,7 +225,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 * **Motivo de Ausência:** drop-down
 * **Período**
 
-<img width="776" height="358" alt="image" src="https://github.com/user-attachments/assets/bc0ec24d-7cee-4c4b-863c-a08ce4c71ab2" />
+<img width="1370" height="657" alt="image" src="https://github.com/user-attachments/assets/1e27cb56-046e-40a8-a7f1-31cd2358ae49" />
 
 **Informação técnica**
 
@@ -285,7 +284,8 @@ Os dados são apresentados em formato tabular e o relatório é composto por 16 
 *	**Colaboradores:** multi-seleção
 *	**Colaboradores ativos:** check-box
 
-<img width="806" height="372" alt="image" src="https://github.com/user-attachments/assets/46cbc0c0-a92c-47f7-8f41-0237a0037a1a" />
+<img width="1372" height="655" alt="image" src="https://github.com/user-attachments/assets/40abc426-a607-4c06-a0b8-47305e4886cb" />
+
 
 **Informação técnica**
 
@@ -323,8 +323,7 @@ O relatório é composto por 8 colunas:
 - **Estado da Gestão de Tempos (Mês Anterior)** -- estado da gestão de tempos no mês anterior à demissão
 - **Estado Envio da Gestão de Tempos (Mês Anterior)** -- estado do envio da gestão de tempos no mês anterior à demissão
 
-<img width="886" height="140" alt="image" src="https://github.com/user-attachments/assets/4397674d-0d5b-4d32-9643-30aaccc43e2f" />
-
+<img width="1868" height="249" alt="image" src="https://github.com/user-attachments/assets/c47201de-ad89-49b1-b249-d83645674e26" />
 
 **Configurações do relatório**
 
@@ -342,7 +341,8 @@ O relatório é composto por 8 colunas:
 *	**Período**
 *	**Ordenação:** radio-button
 
-<img width="781" height="361" alt="image" src="https://github.com/user-attachments/assets/e9147cd4-956f-421d-8897-3de286872532" />
+<img width="1373" height="654" alt="image" src="https://github.com/user-attachments/assets/07295e37-468c-40ac-9c2c-ce3908d9a9ce" />
+
 
 **Informação técnica**
 
@@ -380,8 +380,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 13 
 - **Início da Ausência** -- data de início da ausência
 - **Fim da Ausência** -- data de fim da ausência
 
-<img width="886" height="282" alt="image" src="https://github.com/user-attachments/assets/3cae13fd-7865-4ea4-93c3-0a48973be03b" />
-
+<img width="1854" height="611" alt="image" src="https://github.com/user-attachments/assets/def2eea3-56fc-4763-a248-2090fc06db3d" />
 
 **Configurações do relatório**
 
@@ -397,7 +396,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 13 
 *	**Colaboradores:** drop-down
 *	**Período**
   
-<img width="816" height="378" alt="image" src="https://github.com/user-attachments/assets/f97d08c2-5590-44dd-b9d3-94184e32d4fd" />
+<img width="1371" height="657" alt="image" src="https://github.com/user-attachments/assets/4bda73b7-1a6b-492a-bd24-5f9a96acdcff" />
 
 
 **Informação técnica**
