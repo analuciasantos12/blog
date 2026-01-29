@@ -29,7 +29,7 @@ A tabela do relatório é composta por **11 Colunas:**
 10. **Data** -- data da última alteração
 11. **Troca** -- indicação de troca, caso exista
 
-<img width="886" height="136" alt="image" src="https://github.com/user-attachments/assets/2d8be13d-fd44-4dca-bddd-a5f79111efce" />
+<img width="1884" height="604" alt="image" src="https://github.com/user-attachments/assets/29bf8083-d1d4-4494-9004-2ee56291030b" />
 
 
 **Configurações do relatório**
