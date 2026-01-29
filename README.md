@@ -101,7 +101,7 @@ A tabela do relatório é composta por **12 colunas**:
 11. **Nº Troca** -- número identificativo da troca
 12. **Estado da Troca** -- estado atual da troca
 
-<img width="1368" height="659" alt="image" src="https://github.com/user-attachments/assets/37df15ff-c85d-4f72-b721-a387854df365" />
+<img width="1853" height="476" alt="image" src="https://github.com/user-attachments/assets/dbc90cd2-a082-4d59-aa8c-383f95b166e7" />
 
 **Configurações do relatório**
 
@@ -454,7 +454,8 @@ Os dados são apresentados em formato tabular e o relatório é composto pelas s
 *	**Motivo de ausência**: drop-down
 *	**Período**
 
-<img width="1375" height="656" alt="image" src="https://github.com/user-attachments/assets/7818d3cc-f0c5-4b15-a2b7-5e599c172917" />
+<img width="1364" height="656" alt="image" src="https://github.com/user-attachments/assets/24039938-5939-4d56-b281-869406206d70" />
+
 
 **Informação técnica**
 
