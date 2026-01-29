@@ -100,7 +100,7 @@ A tabela do relatório é composta por **12 colunas**:
 11. **Nº Troca** -- número identificativo da troca
 12. **Estado da Troca** -- estado atual da troca
 
-<img width="886" height="169" alt="image" src="https://github.com/user-attachments/assets/fc56ca3a-f5da-492a-bb3a-3e5d2a6475be" />
+<img width="1872" height="299" alt="image" src="https://github.com/user-attachments/assets/d008b042-0764-4e71-94aa-4086653fe3e2" />
 
 **Configurações do relatório**
 
@@ -122,8 +122,7 @@ A tabela do relatório é composta por **12 colunas**:
 *	**Período**
 *	**Ordenação:** radio button
 
-<img width="781" height="377" alt="image" src="https://github.com/user-attachments/assets/6a5c9f6d-b731-41f6-a1e4-c564afb8cb54" />
-
+<img width="1371" height="660" alt="image" src="https://github.com/user-attachments/assets/445fc827-8d0a-41cd-852d-59bf4f0d0837" />
 
 **Informação técnica**
 
