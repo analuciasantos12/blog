@@ -1528,10 +1528,13 @@ Este relatório permite identificar quais os parâmetros legais que não foram c
 
 **Parâmetros legais:** 
 
-•	**Dias de trabalho consecutivos** - Refere-se à violação das normas legais que estabelecem o número máximo de dias seguidos que um trabalhador pode laborar sem descanso semanal obrigatório. São vários dias seguidos em que um trabalhador exerce atividade profissional sem interrupção por um dia de descanso. A lei estabelece que o trabalhador deve ter pelo menos um dia de descanso por semana, que pode variar. 
-•	**Horas de trabalho consecutivas** - Refere-se à violação das regras legais que limitam o número de horas que um trabalhador pode exercer a sua atividade de forma contínua, sem pausas ou intervalos obrigatórios. São horas trabalhadas seguidas, sem interrupção para descanso ou refeição. A lei define um limite máximo de horas consecutivas que uma pessoa pode trabalhar, e também obriga a pausas (intervalos) após esse limite. 
-•	**Período de descanso entre turnos** - Refere-se à violação das normas legais que estabelecem o intervalo mínimo obrigatório de descanso entre dois turnos de trabalho consecutivos de um trabalhador. É o tempo mínimo de descanso que um trabalhador deve ter entre o fim de uma jornada de trabalho e o início da próxima). 
-•	**Número de dias não trabalhados** - Horário de trabalho planeado/dias com horários e sem picagens, anteriores ou iguais a hoje.
+- **Dias de trabalho consecutivos** - Refere-se à violação das normas legais que estabelecem o número máximo de dias seguidos que um trabalhador pode laborar sem descanso semanal obrigatório. São vários dias seguidos em que um trabalhador exerce atividade profissional sem interrupção por um dia de descanso. A lei estabelece que o trabalhador deve ter pelo menos um dia de descanso por semana, que pode variar. 
+
+-	**Horas de trabalho consecutivas** - Refere-se à violação das regras legais que limitam o número de horas que um trabalhador pode exercer a sua atividade de forma contínua, sem pausas ou intervalos obrigatórios. São horas trabalhadas seguidas, sem interrupção para descanso ou refeição. A lei define um limite máximo de horas consecutivas que uma pessoa pode trabalhar, e também obriga a pausas (intervalos) após esse limite.
+  
+-	**Período de descanso entre turnos** - Refere-se à violação das normas legais que estabelecem o intervalo mínimo obrigatório de descanso entre dois turnos de trabalho consecutivos de um trabalhador. É o tempo mínimo de descanso que um trabalhador deve ter entre o fim de uma jornada de trabalho e o início da próxima).
+  
+-	**Número de dias não trabalhados** - Horário de trabalho planeado/dias com horários e sem picagens, anteriores ou iguais a hoje.
 
 Para cada ocorrência, o relatório indica o período exato do incumprimento, o valor aplicado e se o colaborador possui isenção de horário de trabalho (IHT).
 
