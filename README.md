@@ -190,7 +190,7 @@ Os resultados são apresentados de forma tabular e o relatório é composto por 
 
 ## Ausências Classificadas
 
-O relatório Ausências Classificadas apresenta todas as ausências registadas e classificadas por código, por colaborador, num determinado período. Este relatório permite analisar, de forma detalhada, o tipo de ausência ocorrida, a sua duração e o processo de classificação associado.
+O relatório **Ausências Classificadas** apresenta todas as ausências registadas e classificadas por código, por colaborador, num determinado período. Este relatório permite analisar, de forma detalhada, o tipo de ausência ocorrida, a sua duração e o processo de classificação associado.
 
 Para cada ausência registada, o relatório identifica o colaborador, a data em que a ausência ocorreu, o dia da semana correspondente, o código e a descrição da ausência, bem como o tempo total em horas e a duração em dias. Adicionalmente, é possível saber quem efetuou a classificação da ausência e em que data essa classificação foi realizada, garantindo rastreabilidade e controlo do processo.
 
@@ -1847,7 +1847,55 @@ Os dados são apresentados em formato tabular e o relatório é composto por 16 
 
 ## Pedidos de Alteração de Picagem
 
-*(conteúdo não fornecido)*
+O relatório Pedidos de Alteração de Picagens apresenta todos os pedidos de alteração de registos de picagem efetuados pelos colaboradores, permitindo controlar as alterações solicitadas, o estado de aprovação e o respetivo histórico de validação.
+
+Para cada pedido, o relatório identifica a picagem original, a nova picagem proposta, bem como a informação associada ao pedido, incluindo o utilizador que o submeteu e o estado do processo.
+
+O relatório apresenta a unidade e a secção selecionadas. A informação encontra-se organizada em formato tabular, sendo cada linha correspondente a um pedido de alteração de picagem.
+
+Os dados são apresentados em formato tabular e o relatório é composto pelas seguintes colunas:
+
+-	**Unidade** – unidade onde o colaborador se encontra afeto
+-	**Secção** – secção ou área funcional do colaborador
+-	**Nº Mecanográfico** – número interno de identificação do colaborador
+-	**Nome** – nome do colaborador
+-	**Dia** – data a que corresponde o registo de picagem
+-	**Picagem Original** – registo inicial da picagem efetuada
+-	**Picagem** – novo registo de picagem solicitado
+-	**Data Pedido** – data e hora em que o pedido foi submetido
+-	**Utilizador** – utilizador que efetuou o pedido
+-	**Estado** – estado do pedido (ex.: Aprovado, Pendente)
+-	**Data de Revisão** – data e hora em que o pedido foi analisado
+-	**Aprovador** – utilizador responsável pela validação do pedido
+-	**Nº Impresso** – número identificativo do pedido ou registo gerado pelo sistema
+
+<img width="1552" height="84" alt="image" src="https://github.com/user-attachments/assets/e46195c0-eaad-40f5-88da-2bab4f1881e6" />
+
+**Configurações do relatório**
+
+-	**i_fk_unit** → unidade
+-	**i_fk_section** → secções
+-	**i_fk_employee** → colaboradores
+-	**i_begin_date / i_end_date** → período
+-	**i_collaborator_status** → estado do colaborador
+
+**Filtros do relatório**
+
+-	**Unidade:** drop-down (OBRIGATÓRIO)
+-	**Secção:** drop-down
+-	**Colaboradores:** drop-down
+-	**Estado:** drop-down
+-	**Período**
+
+<img width="1362" height="650" alt="image" src="https://github.com/user-attachments/assets/f3cb6ded-e528-4495-ba91-f6ea30cf99d3" />
+
+**Informação técnica**
+
+-	**Nome do relatório:** Pedidos de Alteração de Picagens
+-	**Key:** PunchEdition
+-	**Função:** BFF
+-	**Local de impressão:** Módulo “Relatórios”
+-	**Formatos disponíveis:** Excel
 
 ---
 
