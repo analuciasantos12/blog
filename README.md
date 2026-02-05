@@ -301,7 +301,56 @@ Os dados são apresentados em formato tabular e o relatório é composto por 16 
 
 ## Cálculo de ausências para prémio
 
-*(conteúdo não fornecido)*
+Este relatório é um mapa de controlo e apuramento de ausências com impacto no cálculo de prémios, utilizado para identificar e quantificar as horas de ausência dos colaboradores num determinado período, bem como comparar essas horas com as horas potenciais elegíveis para prémio.
+
+O relatório apresenta uma tabela consolidada com informação mensal por colaborador, permitindo analisar o impacto das ausências no apuramento do prémio.
+
+A tabela inclui os seguintes campos:
+
+-	**Data de Atualização** – data em que o cálculo ou extração da informação foi atualizado no sistema
+-	**Ano** – ano de referência do cálculo
+-	**Mês** – mês a que os dados dizem respeito
+-	**Empresa** – entidade empresarial associada ao colaborador
+-	**Unidade** – unidade operacional onde o colaborador está alocado
+- **Secção** – área funcional ou departamento do colaborador
+- **Nº Mecan.** – número interno de identificação do colaborador
+-	**Colaborador** – nome completo do colaborador
+-	**Motivo de Ausência** – código ou classificação do motivo da ausência registada
+-	**Horas Mês** – total de horas de ausência registadas no período considerado
+-	**Horas Potenciais** – total de horas elegíveis para prémio no mesmo período
+-	**Estado da GT** – estado de tratamento ou validação da gestão de tempos (ex.: Tratado, Por Tratar)
+
+Cada linha corresponde ao registo de ausências de um colaborador para um determinado motivo e período mensal, permitindo analisar o impacto dessas ausências na elegibilidade ou cálculo do prémio.
+
+<img width="945" height="267" alt="image" src="https://github.com/user-attachments/assets/aa83f9b8-4750-46be-8dc5-cf4629591213" />
+
+**Configurações do relatório**
+
+-	**I_FK_UNIT** → unidades (multi-seleção)
+-	**I_FK_SECTION** → secções (multi-seleção)
+-	**I_FK_EMPLOYEE** → colaboradores (multi-seleção)
+-	**I_MONTH** → mês de referência (DATE)
+-	**I_ISACTIVE** → estado do colaborador (ativos / todos)
+  
+**Filtros do relatório**
+
+*	**Unidades:** multi-seleção (OBRIGATORIO)
+*	**Secções:** multi-seleção
+*	**Colaboradores:** multi-seleção
+*	**Colaboradores ativos:** check-box
+*	**Mês:** drop-down
+*	**Ano:** drop-down
+
+
+<img width="840" height="391" alt="image" src="https://github.com/user-attachments/assets/50bdbceb-afce-4e3e-aa9b-893059824835" />
+
+**Informação técnica**
+
+-	**Nome do relatório:** Cálculo de Ausências para Prémio
+-	**Key:** AbsenceCalculation
+-	**Função:** S_PCK_CORE_EXECUTION_REPORTS.Get_Absences_Prm_Calculation
+-	**Local de impressão:** Módulo “relatórios”
+-	**Formatos disponíveis:** Excel
 
 ---
 
