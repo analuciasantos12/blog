@@ -1850,7 +1850,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 16 
 
 ## Pedidos de Alteração de Picagem
 
-O relatório Pedidos de Alteração de Picagens apresenta todos os pedidos de alteração de registos de picagem efetuados pelos colaboradores, permitindo controlar as alterações solicitadas, o estado de aprovação e o respetivo histórico de validação.
+O relatório **Pedidos de Alteração de Picagens** apresenta todos os pedidos de alteração de registos de picagem efetuados pelos colaboradores, permitindo controlar as alterações solicitadas, o estado de aprovação e o respetivo histórico de validação.
 
 Para cada pedido, o relatório identifica a picagem original, a nova picagem proposta, bem como a informação associada ao pedido, incluindo o utilizador que o submeteu e o estado do processo.
 
