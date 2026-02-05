@@ -123,7 +123,7 @@ A tabela do relatório é composta por **12 colunas**:
 *	**Período**
 *	**Ordenação:** radio button
 
-<img width="1371" height="660" alt="image" src="https://github.com/user-attachments/assets/445fc827-8d0a-41cd-852d-59bf4f0d0837" />
+<img width="1358" height="644" alt="image" src="https://github.com/user-attachments/assets/09b30f0b-b5fc-42b3-b6a8-eec1aa3d0d6e" />
 
 **Informação técnica**
 
@@ -341,8 +341,7 @@ Cada linha corresponde ao registo de ausências de um colaborador para um determ
 *	**Mês:** drop-down
 *	**Ano:** drop-down
 
-
-<img width="840" height="391" alt="image" src="https://github.com/user-attachments/assets/50bdbceb-afce-4e3e-aa9b-893059824835" />
+<img width="1361" height="650" alt="image" src="https://github.com/user-attachments/assets/36a109dd-2f0e-4464-b65b-0a43cbc242e1" />
 
 **Informação técnica**
 
@@ -624,7 +623,7 @@ Cada linha da tabela corresponde a um contingente específico aplicado a um cola
 *	**Filtro por data de validade /data de dedução:** radio-button
 *	**Colaborador ATIVOS/INATIVOS:** radio button
 
-<img width="1382" height="666" alt="image" src="https://github.com/user-attachments/assets/660971d9-dae1-41c0-8d8c-33726a221364" />
+<img width="1359" height="645" alt="image" src="https://github.com/user-attachments/assets/b6d21e94-e483-4ba0-9d10-71a69ce89049" />
 
 **Informação técnica**
 
@@ -711,8 +710,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 
 Cada linha corresponde a um colaborador e ao respetivo contrato ativo ou histórico, conforme os filtros aplicados.
 
-<img width="886" height="331" alt="image" src="https://github.com/user-attachments/assets/470002e0-497e-4e54-83de-91a4da376b6c" />
-
+<img width="1860" height="389" alt="image" src="https://github.com/user-attachments/assets/42d38f21-3f79-4245-86ea-7536458a1111" />
 
 **Configurações do relatório**
 
@@ -760,7 +758,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 - **Criado por** -- utilizador que registou a informação
 - **Criado em** -- data e hora de criação do registo
 
-<img width="886" height="88" alt="image" src="https://github.com/user-attachments/assets/c2d049ef-1dc8-4ad0-9349-8d4be7a3a15c" />
+<img width="1868" height="158" alt="image" src="https://github.com/user-attachments/assets/fbf15c6b-8969-4988-8356-6ca61a0061a4" />
 
 **Configurações do relatório**
 
@@ -779,7 +777,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 *	**Colaboradores ATIVOS/INATIVOS:** radio-button
 *	**Ordenação (nome/número mecanográfico/ data):** radio button
 
-<img width="805" height="371" alt="image" src="https://github.com/user-attachments/assets/95410628-1699-4dae-8789-8161869347e8" />
+<img width="1358" height="648" alt="image" src="https://github.com/user-attachments/assets/1fec1deb-4f81-4747-bb28-51c27eaeebad" />
 
 **Informação técnica**
 
@@ -809,7 +807,7 @@ Os dados são apresentados em formato tabular e incluem:
   - **Carga semanal** -- carga semanal executada
   - **Diferença** -- diferença entre a média e a carga executada
  
-<img width="886" height="203" alt="image" src="https://github.com/user-attachments/assets/6203dd36-0ec6-4fdf-9b29-faf3f0127575" />
+<img width="1855" height="561" alt="image" src="https://github.com/user-attachments/assets/aeecd469-3988-4ba1-80c2-92145193da63" />
 
 **Configurações do relatório**
 
@@ -828,7 +826,7 @@ Os dados são apresentados em formato tabular e incluem:
 *	**Com diferença de carga (todos/sim/não):** radio-button
 *	**Período**
 
-<img width="886" height="407" alt="image" src="https://github.com/user-attachments/assets/93764e33-d163-45f4-9f93-6b79d2c7604e" />
+<img width="1368" height="655" alt="image" src="https://github.com/user-attachments/assets/2bb0dbfb-8f63-4384-84ed-9e027db6d083" />
 
 **Informação técnica**
 
@@ -858,7 +856,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 - **Saída** (Planeado, Executado, Diferença)
 - **IHT** -- indicação se o colaborador possui isenção de horário de trabalho (S/N)
 
-<img width="886" height="231" alt="image" src="https://github.com/user-attachments/assets/176f637e-61c7-445f-a241-30f781231f58" />
+<img width="1857" height="559" alt="image" src="https://github.com/user-attachments/assets/3bf4e004-d7f2-4d44-8b60-509b5c33ca70" />
 
 **Configurações do relatório**
 
@@ -876,7 +874,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 *	**Período**
 *	**Ordenação (nome/número mecanográfico/ data):** radio button
 
-<img width="750" height="343" alt="image" src="https://github.com/user-attachments/assets/e1fefe20-a201-4078-a352-51627274686e" />
+<img width="1375" height="654" alt="image" src="https://github.com/user-attachments/assets/a58da446-d1d2-419b-811b-26e4f59eaef9" />
 
 **Informação técnica**
 
@@ -923,7 +921,7 @@ O documento inclui ainda:
 *	**Colaboradores:** multi-seleção
 *	**Ano: drop-down**
 
-<img width="800" height="368" alt="image" src="https://github.com/user-attachments/assets/50b8e728-bc23-4704-8d84-5c838ed260ed" />
+<img width="1356" height="648" alt="image" src="https://github.com/user-attachments/assets/c9a1b4e9-aeb3-442a-85a9-ea735f916714" />
 
 **Informação técnica**
 -	**Nome do relatório:** Domingos e Feriados com Horas Complementares
@@ -955,8 +953,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 11 
 - **Data de Demissão** -- data de demissão (quando aplicável)
 - **Contrato** -- tipo de contrato associado ao colaborador
 
-<img width="886" height="432" alt="image" src="https://github.com/user-attachments/assets/99bb7146-fe0b-4bd2-8094-7b239ec838c4" />
-
+<img width="1845" height="600" alt="image" src="https://github.com/user-attachments/assets/df6019cc-259d-4afe-affe-fcea70ba12a3" />
 
 **Configurações do relatório**
 
@@ -979,7 +976,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 11 
 *	**Contratos (Todos / 5 dias de trabalho):** radio button
 *	**Ordenação:** radio button
   
-<img width="775" height="358" alt="image" src="https://github.com/user-attachments/assets/3b24f0db-923c-443c-a25d-7ab75380e1bb" />
+<img width="1376" height="655" alt="image" src="https://github.com/user-attachments/assets/d6929db9-9422-45f8-9560-969885785d24" />
 
 **Informação técnica**
 
@@ -1011,8 +1008,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 11 
 - **Carga semanal** -- carga horária semanal prevista
 - **Carga realizada** -- carga horária efetivamente realizada
 
-<img width="886" height="234" alt="image" src="https://github.com/user-attachments/assets/61401e51-cbef-4387-b80a-07bb5182b77b" />
-
+<img width="1889" height="222" alt="image" src="https://github.com/user-attachments/assets/00417c94-bd32-4dd0-b68c-47f2fd29b538" />
 
 **Configurações do relatório**
 
@@ -1035,8 +1031,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 11 
 *	**Planeamento extra:** check-box
 *	**Ordenação:** radio button
 
-<img width="755" height="348" alt="image" src="https://github.com/user-attachments/assets/ce1a3e8d-0a16-4b79-861a-e56782c86aad" />
-
+<img width="1373" height="656" alt="image" src="https://github.com/user-attachments/assets/7c4612e5-4afe-4062-9bc9-65c7adf4ded3" />
 
 **Informação técnica**
 
@@ -1056,8 +1051,7 @@ Este relatório é essencial para garantir o correto cálculo de tempos de traba
 
 A estrutura do relatório, colunas apresentadas e organização por secção são idênticas ao relatório Entidades Oficiais.
 
-<img width="886" height="232" alt="image" src="https://github.com/user-attachments/assets/aa241d5b-bf9e-452c-a9c9-a6fca68be19c" />
-
+<img width="1904" height="425" alt="image" src="https://github.com/user-attachments/assets/794655fe-efee-4a6c-97ea-15d0c0c14f71" />
 
 **Configurações do relatório**
 
@@ -1080,7 +1074,7 @@ A estrutura do relatório, colunas apresentadas e organização por secção sã
 *	**Planeamento extra:** check-box
 *	**Ordenação:** radio button
 
-<img width="665" height="307" alt="image" src="https://github.com/user-attachments/assets/ccfb0f05-2a3f-4ec5-82c0-f220f053ca6b" />
+<img width="1373" height="661" alt="image" src="https://github.com/user-attachments/assets/310b72bb-0bc0-47a9-8c07-97b66e61c9fb" />
 
 **Informação técnica**
 
@@ -1111,8 +1105,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 8 c
 - **IHT** -- indicação de isenção de horário de trabalho (S/N)
 - **Carga Semanal** -- carga horária semanal do colaborador
 
-<img width="886" height="170" alt="image" src="https://github.com/user-attachments/assets/88427cd8-ca08-474c-81de-4022d864a31c" />
-
+<img width="1858" height="264" alt="image" src="https://github.com/user-attachments/assets/91cf2cab-4e21-4b98-8e08-f694717dbd9a" />
 
 **Configurações do relatório**
 
@@ -1129,7 +1122,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 8 c
 *	**Colaboradores:** drop-down
 *	**Período:** mês (drop-down) e ano (drop-down)
   
-<img width="737" height="340" alt="image" src="https://github.com/user-attachments/assets/7c3a0ae7-40a8-460a-a40b-75a2e1d26996" />
+<img width="1373" height="657" alt="image" src="https://github.com/user-attachments/assets/26700b9c-409f-456b-8a41-2761d0aaf2a5" />
 
 **Informação técnica**
 
@@ -1156,8 +1149,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 4 c
 - **Data** -- data em que ocorreu o erro
 - **Descrição** -- descrição do tipo de erro registado
 
-<img width="886" height="270" alt="image" src="https://github.com/user-attachments/assets/734951ea-8238-48eb-be9b-e33a3edc9b85" />
-
+<img width="1853" height="661" alt="image" src="https://github.com/user-attachments/assets/80acd666-c65f-44d5-963d-a81d08b59f9a" />
 
 **Configurações do relatório**
 
@@ -1173,8 +1165,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 4 c
 *	**Colaboradores:** drop-down
 *	**Período**
 
-<img width="728" height="332" alt="image" src="https://github.com/user-attachments/assets/2573f7f8-6a9f-4670-aaf2-faba111bbbb5" />
-
+<img width="1375" height="661" alt="image" src="https://github.com/user-attachments/assets/d48906e2-5dcb-4cd2-ba00-947299a56ccf" />
 
 **Informação técnica**
 
@@ -1209,7 +1200,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 - **Observação** -- observações adicionais
 - **Assinatura** -- assinatura do colaborador
   
-<img width="886" height="178" alt="image" src="https://github.com/user-attachments/assets/0b72fb29-b008-46b5-a1ae-b6fa939ecc15" />
+<img width="1863" height="487" alt="image" src="https://github.com/user-attachments/assets/eccf7655-302b-4509-97ea-0f3a23ee6c35" />
 
 **Configurações do relatório**
 
@@ -1236,7 +1227,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 *	**Ordenação:** radio button
 *	**Opções de impressão (por escala / sem quebra / automático):** radio button
 
-<img width="802" height="371" alt="image" src="https://github.com/user-attachments/assets/bd7c210f-3c1f-4e50-b471-49a2729aaff4" />
+<img width="1371" height="658" alt="image" src="https://github.com/user-attachments/assets/48548966-b9bd-4d9d-8f21-c08e4e7d9c13" />
 
 **Informação técnica**
 
@@ -1266,8 +1257,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 - **Estado Aplicação Externa** -- estado na aplicação externa
 - **Data Estado Aplicação Externa** -- data do estado externo
 
-<img width="886" height="229" alt="image" src="https://github.com/user-attachments/assets/76342f33-7769-4bd0-aeeb-076876c3ea4d" />
-
+<img width="1857" height="610" alt="image" src="https://github.com/user-attachments/assets/ceb16efd-4d4e-4bf4-9620-aa1b596c69cc" />
 
 **Configurações do relatório**
 
@@ -1290,7 +1280,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 *	**Somente colaboradores ativos:** check-box
 *	**Ordenação:** radio button
 
-<img width="775" height="359" alt="image" src="https://github.com/user-attachments/assets/65ca67fc-dcee-488e-9ddc-8c7df6a098cd" />
+<img width="1376" height="661" alt="image" src="https://github.com/user-attachments/assets/b39a2056-8eb3-474a-bcba-8f43db55c938" />
 
 **Informação técnica**
 
@@ -1321,7 +1311,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 - **Vendas Realizadas** -- (itens,valor)
 - **Desvio % Realizado / Forecast Evento**
 
-<img width="886" height="112" alt="image" src="https://github.com/user-attachments/assets/7ecf798d-6507-4ef2-bd28-6ab8c343465b" />
+<img width="1856" height="384" alt="image" src="https://github.com/user-attachments/assets/aec19f8e-4f9f-4de6-a9a6-0adeb05d8361" />
 
 **Configurações do relatório**
 
@@ -1335,7 +1325,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 *	**Secções:** drop-down
 *	**Período**
   
-<img width="772" height="357" alt="image" src="https://github.com/user-attachments/assets/8f120684-4b75-4c18-b6fd-b633539e9b5f" />
+<img width="1374" height="661" alt="image" src="https://github.com/user-attachments/assets/b9b5ce95-e25a-4483-979a-037be6968d92" />
 
 **Informação técnica**
 
@@ -1365,8 +1355,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 - **Folgas Atribuídas** -- total de folgas compensatórias já utilizadas
 - **Saldo** -- saldo atual de folgas compensatórias
 
-<img width="886" height="56" alt="image" src="https://github.com/user-attachments/assets/f4f43c7c-0a01-456d-816a-e471c9352d29" />
-
+<img width="1873" height="104" alt="image" src="https://github.com/user-attachments/assets/7a6a06f7-d989-45e7-8c69-57c49b554a6d" />
 
 **Configurações do relatório**
 
@@ -1382,7 +1371,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 * **Colaboradores:** multi-seleção
 * **Período (ano):** drop-down
 
-<img width="718" height="330" alt="image" src="https://github.com/user-attachments/assets/abe1a020-8ff4-4532-89f3-33e9224bca14" />
+<img width="1372" height="657" alt="image" src="https://github.com/user-attachments/assets/5ae64737-e0b8-453f-8fde-4a6954e7f4bb" />
 
 **Informação técnica**
 
@@ -1420,8 +1409,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 - **Compensações** -- número de compensações no dia
 - **Ausências** -- número de ausências no dia
 
-<img width="886" height="242" alt="image" src="https://github.com/user-attachments/assets/e433407f-a1f0-428b-847a-595fd464f18f" />
-
+<img width="1847" height="363" alt="image" src="https://github.com/user-attachments/assets/0f5cd98a-277e-408c-89a6-f3436f6cd0f1" />
 
 **Configurações do relatório**
 
@@ -1438,7 +1426,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 * **Parâmetros legais:** drop-down
 * **Data**
 
-<img width="723" height="334" alt="image" src="https://github.com/user-attachments/assets/50e1eea3-6496-4ffa-a781-b2e6a37f1b06" />
+<img width="1371" height="661" alt="image" src="https://github.com/user-attachments/assets/b548fa00-986a-4aab-b4bc-a092d1ac1f01" />
 
 **Informação técnica**
 
@@ -1464,7 +1452,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 9 c
 - **Dia 1 a Dia 7** -- horário e carga horária realizada em cada dia da semana
 - **Carga Semanal** -- total de horas realizadas na semana
 
-<img width="886" height="105" alt="image" src="https://github.com/user-attachments/assets/3af0aacf-6402-4716-a9b2-f2b726fe9f5e" />
+<img width="1861" height="368" alt="image" src="https://github.com/user-attachments/assets/21f7a57a-3523-4b9e-86c7-418905e54b87" />
 
 **Configurações do relatório**
 
@@ -1483,7 +1471,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 9 c
 * **Planeamento Extra:** check-box
 * **Opções de impressão (por escala / sem quebra / automático):** radio button
 
-<img width="743" height="342" alt="image" src="https://github.com/user-attachments/assets/9ce7c4d6-8b4b-478f-a468-69a58a27f0a1" />
+<img width="1373" height="659" alt="image" src="https://github.com/user-attachments/assets/a6833375-7b09-4add-8ac0-50b16aee34ec" />
 
 **Informação técnica**
 
@@ -1501,7 +1489,7 @@ O relatório **Horários por Colaborador (Avaliação Noturna)** é equivalente 
 
 A estrutura de apresentação é idêntica ao relatório base, sendo ajustados os cálculos de carga horária conforme as regras de avaliação noturna.
 
-<img width="886" height="106" alt="image" src="https://github.com/user-attachments/assets/21385731-026c-4a4b-a11e-b7d518e6b0a7" />
+<img width="1853" height="366" alt="image" src="https://github.com/user-attachments/assets/dcfbe4b9-b1e4-4861-8db1-6f198a24cd32" />
 
 **Configurações do relatório**
 
@@ -1520,7 +1508,7 @@ A estrutura de apresentação é idêntica ao relatório base, sendo ajustados o
 * **Planeamento Extra:** check-box
 * **Opções de impressão:** radio button
 
-<img width="740" height="342" alt="image" src="https://github.com/user-attachments/assets/74eb1ad1-a729-4ca5-b7dd-eb54215ad4b6" />
+<img width="1373" height="656" alt="image" src="https://github.com/user-attachments/assets/35fc516d-9dee-46cb-87f2-7dc1fa3c348b" />
 
 **Informação técnica**
 
@@ -1560,7 +1548,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 8 c
 - **Valor Aplicado** -- valor efetivamente aplicado
 - **IHT** -- indicação de isenção de horário de trabalho (S/N)
 
-<img width="886" height="223" alt="image" src="https://github.com/user-attachments/assets/655cd8f4-3056-4957-ae9b-b1d0391aa4f6" />
+<img width="1860" height="504" alt="image" src="https://github.com/user-attachments/assets/07dd665e-90e8-43d7-8e12-b726b8477876" />
 
 **Configurações do relatório**
 
@@ -1579,7 +1567,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 8 c
 * **Período**
 * **Ordenação:** radio button
 
-<img width="754" height="349" alt="image" src="https://github.com/user-attachments/assets/3a567d18-53ca-4c12-9d95-b0ab4defd92a" />
+<img width="1373" height="657" alt="image" src="https://github.com/user-attachments/assets/76e5c2e3-03cc-448a-a7da-ff0c23ce16b3" />
 
 **Informação técnica**
 
@@ -1605,7 +1593,7 @@ Adicionalmente, o relatório inclui:
 - Uma coluna com o **total de dias de férias deduzidos por mês**
 - Na última linha, o **total anual** de dias marcados e deduzidos
 
-<img width="886" height="210" alt="image" src="https://github.com/user-attachments/assets/68f6f492-142c-4433-ae60-0bc47357683c" />
+<img width="1855" height="673" alt="image" src="https://github.com/user-attachments/assets/896b7984-45cd-49d3-b7ce-0903f1834ae2" />
 
 **Configurações do relatório**
 
@@ -1622,7 +1610,7 @@ Adicionalmente, o relatório inclui:
 * **Ano:** drop-down
 * **Ordenação:** radio button
   
-<img width="739" height="341" alt="image" src="https://github.com/user-attachments/assets/12b06bd9-d445-44fc-9205-a68eac162d88" />
+<img width="1375" height="661" alt="image" src="https://github.com/user-attachments/assets/5edbb3ef-0ef7-4807-8d25-851576cdda78" />
 
 **Informação técnica**
 
@@ -1634,9 +1622,9 @@ Adicionalmente, o relatório inclui:
 
 ---
 
-## Mapa de Descansos
+## Mapa de Descansos Anual
 
-O relatório **Mapa de Descansos Anual**apresenta, para um determinado ano, o registo diário de descansos e ausências dos colaboradores, permitindo uma visão consolidada dos diferentes motivos de ausência ocorridos nesse período.
+O relatório **Mapa de Descansos Anual** apresenta, para um determinado ano, o registo diário de descansos e ausências dos colaboradores, permitindo uma visão consolidada dos diferentes motivos de ausência ocorridos nesse período.
 
 No cabeçalho, o relatório apresenta a **unidade**, a **secção**, o **colaborador** e o **ano**. As primeiras linhas da tabela identificam os **dias do mês**, servindo de referência temporal.
 
@@ -1651,7 +1639,7 @@ Para cada colaborador, o relatório mostra os dias em que ocorreram:
 
 A informação é apresentada num formato semelhante a um calendário, facilitando a leitura e análise operacional.
 
-<img width="886" height="352" alt="image" src="https://github.com/user-attachments/assets/64fef752-4b79-4cbd-83fb-97bb2ba51706" />
+<img width="1852" height="731" alt="image" src="https://github.com/user-attachments/assets/a68236f1-b11e-429f-97cf-9cbb9a36e74c" />
 
 **Configurações do relatório**
 
@@ -1674,7 +1662,7 @@ A informação é apresentada num formato semelhante a um calendário, facilitan
   * Mapa completo
   * Domingos e feriados livres
 
-<img width="743" height="342" alt="image" src="https://github.com/user-attachments/assets/c806da18-60b3-4693-9018-c24427ff258c" />
+<img width="1374" height="659" alt="image" src="https://github.com/user-attachments/assets/5ab5f277-5b85-4767-bd7c-49c27224fe61" />
 
 **Informação técnica**
 
@@ -1703,7 +1691,7 @@ Para cada colaborador, o relatório mostra os dias em que ocorreram:
 
 A informação é apresentada num formato semelhante a um calendário mensal, facilitando a leitura e análise operacional.
 
-<img width="886" height="104" alt="image" src="https://github.com/user-attachments/assets/b93b7c03-012f-4e92-b97e-efc20b459452" />
+<img width="1874" height="217" alt="image" src="https://github.com/user-attachments/assets/35a0d610-3b4d-4fef-9f0d-0748b39730b4" />
 
 **Configurações do relatório**
 
@@ -1721,7 +1709,7 @@ A informação é apresentada num formato semelhante a um calendário mensal, fa
   * Mapa completo
   * Domingos e feriados livres
 
-<img width="743" height="342" alt="image" src="https://github.com/user-attachments/assets/c806da18-60b3-4693-9018-c24427ff258c" />
+<img width="1140" height="580" alt="image" src="https://github.com/user-attachments/assets/d70e66c4-6771-43c4-84af-a69fbe0012d8" />
 
 **Informação técnica**
 
@@ -1750,15 +1738,22 @@ Para cada movimento registado, o relatório identifica:
 **Colunas do relatório**
 
 **1.** Nº Mecanográfico
+
 **2.** Colaborador
+
 **3.** Data
+
 **4.** Código do contingente
+
 **5.** Contingente
+
 **6.** Tipo (Compensação / Dedução)
+
 **7.** Valor
+
 **8.** Unidade de Medida
 
-<img width="886" height="89" alt="image" src="https://github.com/user-attachments/assets/9b0c6407-c8c3-4e3d-b28e-e422ef80f054" />
+<img width="1873" height="573" alt="image" src="https://github.com/user-attachments/assets/a3607926-821d-4824-92bd-55f3ce933eb6" />
 
 **Configurações do relatório**
 
@@ -1780,7 +1775,7 @@ Para cada movimento registado, o relatório identifica:
 * **Tipo de movimento (todos,compensação,dedução):** drop-down
 * **Colaboradores:** radio button
 
-<img width="706" height="326" alt="image" src="https://github.com/user-attachments/assets/e7e735cc-8bdd-4f24-9293-ba45fa3b18d4" />
+<img width="1379" height="659" alt="image" src="https://github.com/user-attachments/assets/1643ce29-f571-4976-8150-85ea974672f5" />
 
 **Informação técnica**
 
@@ -1820,7 +1815,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 16 
 - **Sub. Alimentação** -- total de horas/dias que dão direito ao subsídio de alimentação
 - **Horas Picagens** -- total de horas registadas no ponto
 
-<img width="886" height="57" alt="image" src="https://github.com/user-attachments/assets/88c6ecb3-0664-4f8c-a149-95aa18172972" />
+<img width="1868" height="226" alt="image" src="https://github.com/user-attachments/assets/cddb29ca-704d-421f-9691-47318fd141b4" />
 
 **Configurações do relatório**
 
@@ -1838,7 +1833,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 16 
 * **Colaboradores (Todos / Ativos / Inativos):** radio button
 * **Período**
   
-<img width="763" height="348" alt="image" src="https://github.com/user-attachments/assets/8c8ff556-bd5f-417f-a24f-d6505eb43b0d" />
+<img width="1373" height="659" alt="image" src="https://github.com/user-attachments/assets/ad010747-b9f7-4c20-8c75-9ca24cf55f2f" />
 
 **Informação técnica**
 
@@ -1874,7 +1869,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 - Secção
 - Criação de acesso
   
-<img width="886" height="374" alt="image" src="https://github.com/user-attachments/assets/436b9ee6-1fa2-46a5-aff7-a3eaadf896b4" />
+<img width="1853" height="758" alt="image" src="https://github.com/user-attachments/assets/c4bcbdd9-ff1e-4185-920d-a3120884c7c5" />
 
 **Configurações do relatório**
 
@@ -1894,7 +1889,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 * **Somente utilizadores ativos:** check-box
 * **Ordenação:** radio button
 
-<img width="775" height="358" alt="image" src="https://github.com/user-attachments/assets/415e052f-9000-487b-a97b-1dcbc9e26f11" />
+<img width="1377" height="661" alt="image" src="https://github.com/user-attachments/assets/532540b7-59ca-45a1-a7f9-f71fc9002edc" />
 
 **Informação técnica**
 
@@ -1947,7 +1942,7 @@ Por fim, o documento inclui notas finais com orientações sobre a utilização 
 -	**Colaboradores:** drop-down
 -	**Período (ano):** drop-down
 
-<img width="743" height="342" alt="image" src="https://github.com/user-attachments/assets/7c118cb3-c217-4af5-9f61-0e2ae9dd669d" />
+<img width="1372" height="652" alt="image" src="https://github.com/user-attachments/assets/dbdcba21-3897-4851-922e-cc641851cff5" />
 
 **Informação técnica**
 
@@ -1984,7 +1979,7 @@ Os dados são apresentados em formato tabular e o relatório é composto pelas s
 - **User** -- utilizador que efetuou alterações
 - **Data de Modificação** -- data da última alteração efetuada
 
-<img width="886" height="161" alt="image" src="https://github.com/user-attachments/assets/1cc21420-cac4-45f6-ab4c-7089b35a9f3f" />
+<img width="1849" height="568" alt="image" src="https://github.com/user-attachments/assets/3ac14511-59fc-470a-8c17-bb7051aeb98c" />
 
 **Configurações do relatório**
 
@@ -2000,7 +1995,7 @@ Os dados são apresentados em formato tabular e o relatório é composto pelas s
 * **Colaboradores**: drop-down
 * **Período**
 
-<img width="739" height="339" alt="image" src="https://github.com/user-attachments/assets/6b74a8b7-970c-418c-afa6-ea33f157e980" />
+<img width="1370" height="655" alt="image" src="https://github.com/user-attachments/assets/f8a639a0-fc5d-4218-8e9d-6066b8d5ce14" />
 
 **Informação técnica**
 
@@ -2034,7 +2029,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 - **Terminal 1 / Terminal 2** -- identificação dos terminais utilizados
 - **IHT** -- isenção de horário de trabalho (S/N)
 
-<img width="886" height="70" alt="image" src="https://github.com/user-attachments/assets/70d49092-4718-4718-965c-75899ba70f93" />
+<img width="1870" height="133" alt="image" src="https://github.com/user-attachments/assets/549e6401-b059-456b-8ede-28d99bb06d69" />
 
 **Configurações do relatório**
 
@@ -2053,7 +2048,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 * **Tempo total (minutos)**: menor/igual/maior que (radio-button)
 * **Ordenação**: radio button
 
-<img width="728" height="336" alt="image" src="https://github.com/user-attachments/assets/6975d03f-4394-41ba-a5c7-d13034a66a4d" />
+<img width="1376" height="659" alt="image" src="https://github.com/user-attachments/assets/395c2553-20c8-4672-8483-e8f76605a50c" />
 
 **Informação técnica**
 
@@ -2080,7 +2075,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 3 c
 - **Dia da Semana** -- dia da semana correspondente
 - **Picagem** -- indicação do estado (ex.: "Colab. Não Trab.")
 
-<img width="886" height="163" alt="image" src="https://github.com/user-attachments/assets/64ac2335-43ce-4386-bafe-6681bb2c4751" />
+<img width="1856" height="573" alt="image" src="https://github.com/user-attachments/assets/fa883772-816f-44bc-b0ee-c3386ab054f5" />
 
 **Configurações do relatório**
 
@@ -2096,7 +2091,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 3 c
 * **Colaboradores**: drop-down
 * **Período**
 
-<img width="724" height="334" alt="image" src="https://github.com/user-attachments/assets/748592af-23f8-45aa-975c-cf69eace5ae8" />
+<img width="1376" height="663" alt="image" src="https://github.com/user-attachments/assets/507adc65-0816-41f5-a016-6058f3ad8860" />
 
 **Informação técnica**
 
@@ -2131,7 +2126,8 @@ Em cada célula:
 
 No final de cada secção existe uma linha de **TOTAL**, que soma o número de colaboradores presentes em cada intervalo horário.
 
-<img width="886" height="392" alt="image" src="https://github.com/user-attachments/assets/965ab89b-a5c4-4f7f-8113-e9ddff681e6e" />
+<img width="1854" height="475" alt="image" src="https://github.com/user-attachments/assets/aa679db1-380c-4e7c-b1f7-6e64bd18399e" />
+
 
 **Configurações do relatório**
 
@@ -2147,7 +2143,7 @@ No final de cada secção existe uma linha de **TOTAL**, que soma o número de c
 * **Tipo de posto**: multi-seleção
 * **Período**
   
-<img width="726" height="333" alt="image" src="https://github.com/user-attachments/assets/a28707ee-1537-4ee7-92eb-2e8473b3b2af" />
+<img width="1376" height="665" alt="image" src="https://github.com/user-attachments/assets/801d042a-0e62-4e55-87be-5c8e2821952a" />
 
 **Informação técnica**
 
@@ -2176,7 +2172,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 5 c
 - **Secção** -- secção onde o colaborador pode exercer funções
 - **Posto** -- posto ou função específica associada à secção
 
-<img width="886" height="272" alt="image" src="https://github.com/user-attachments/assets/0eccb636-ef70-4f27-9534-f42b144d14d5" />
+<img width="1866" height="865" alt="image" src="https://github.com/user-attachments/assets/41a87b68-dffe-4ea3-877e-b0e9e33ccd22" />
 
 **Configurações do relatório**
 
@@ -2190,7 +2186,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 5 c
 * **Secções**: multi-seleção
 * **Colaboradores**: multi-seleção
 
-<img width="701" height="324" alt="image" src="https://github.com/user-attachments/assets/bec891ad-4b44-4760-ac2e-e51c91b6f523" />
+<img width="1376" height="663" alt="image" src="https://github.com/user-attachments/assets/4a2651ed-e6e0-4a9a-9b52-2cd6e42c2872" />
 
 **Informação técnica**
 
@@ -2223,7 +2219,7 @@ No final de cada secção é apresentado um resumo da carga horária semanal, on
 - As diferentes cargas horárias existentes (ex.: 20h, 30h, 35h, 40h)
 - O total de colaboradores associados a cada carga horária
 
-<img width="886" height="287" alt="image" src="https://github.com/user-attachments/assets/7f2b0e45-6c34-473a-9679-266cb8462f0e" />
+<img width="1865" height="902" alt="image" src="https://github.com/user-attachments/assets/6d82f41f-399c-4176-b0e7-ced40298fe90" />
 
 **Configurações do relatório**
 
@@ -2240,8 +2236,7 @@ No final de cada secção é apresentado um resumo da carga horária semanal, on
 * **Somente colaboradores ativos:** check-box
 * **Ordenação:** radio button
 
-<img width="771" height="354" alt="image" src="https://github.com/user-attachments/assets/43ae5a13-a7f2-4e05-841d-7893c3b4aeda" />
-
+<img width="1384" height="672" alt="image" src="https://github.com/user-attachments/assets/b873794b-dd59-46b7-8804-309b8a01d55b" />
 
 **Informação técnica**
 
@@ -2273,7 +2268,7 @@ Os dados são apresentados em formato tabular, sendo cada linha correspondente a
 - **Unidade** -- unidade a que o evento se aplica
 - **Secção** -- secção específica abrangida
 
-<img width="886" height="58" alt="image" src="https://github.com/user-attachments/assets/fad3fad1-704b-4546-9345-b39975ae418a" />
+<img width="1871" height="142" alt="image" src="https://github.com/user-attachments/assets/a8aadc09-7568-4cb7-b710-f2c1c731a73b" />
 
 **Configurações do relatório**
 
@@ -2291,7 +2286,7 @@ Os dados são apresentados em formato tabular, sendo cada linha correspondente a
 * **Período**
 * **Ordenação:** radio button
 
-<img width="736" height="340" alt="image" src="https://github.com/user-attachments/assets/3b04452d-7a5f-42df-ae93-abf556b927b3" />
+<img width="1721" height="627" alt="image" src="https://github.com/user-attachments/assets/83515a5f-c61c-44d3-a737-61d3f5a8aff7" />
 
 **Informação técnica**
 
@@ -2322,7 +2317,7 @@ Sempre que um colaborador tem mais do que um período de férias, estes surgem l
 
 No final de cada colaborador é apresentado o total de dias de férias gozados no ano.
 
-<img width="886" height="73" alt="image" src="https://github.com/user-attachments/assets/227dbcb1-a761-4b72-8bdb-b486279fe108" />
+<img width="1865" height="390" alt="image" src="https://github.com/user-attachments/assets/7a32b3ef-f7f5-4d7c-8c15-75ca6cdcf805" />
 
 **Configurações do relatório**
 
@@ -2339,7 +2334,7 @@ No final de cada colaborador é apresentado o total de dias de férias gozados n
 * **Ano:** drop-down
 * **Ordenação:** radio button
 
-<img width="758" height="348" alt="image" src="https://github.com/user-attachments/assets/9cdbcf35-351d-4242-9d6b-77e89cc656fa" />
+<img width="1720" height="627" alt="image" src="https://github.com/user-attachments/assets/94b9061c-8607-44af-a79e-760be24978df" />
 
 **Informação técnica**
 
@@ -2373,7 +2368,7 @@ De seguida, é apresentada a lista de colaboradores afetos ao posto, com o segui
 - **Até** -- hora de fim do turno
 - **Horas** -- total de horas planeadas
 
-<img width="886" height="494" alt="image" src="https://github.com/user-attachments/assets/e980af69-1618-4d29-98c1-f04daccd10b3" />
+<img width="1297" height="778" alt="image" src="https://github.com/user-attachments/assets/889c5552-51db-45f7-b8e6-7bb153e3ae9f" />
 
 **Configurações do relatório**
 
@@ -2388,7 +2383,7 @@ De seguida, é apresentada a lista de colaboradores afetos ao posto, com o segui
 * **Período**
 * **Horário:** obrigatório
 
-<img width="747" height="344" alt="image" src="https://github.com/user-attachments/assets/fca537da-c8b9-4ed7-8477-ec1c66446016" />
+<img width="1718" height="627" alt="image" src="https://github.com/user-attachments/assets/c86a5ca0-5a58-4ec7-9f5f-1ea6edf9f200" />
 
 **Informação técnica**
 
@@ -2400,9 +2395,9 @@ De seguida, é apresentada a lista de colaboradores afetos ao posto, com o segui
 
 ---
 
-## Relatório de Horários Escalonados
+## Relatório de Horários Escalados
 
-O **Relatório de Horários Escalonados** apresenta os horários atribuídos a cada colaborador numa determinada semana, permitindo consultar de forma detalhada os horários planeados por dia.
+O **Relatório de Horários Escalados** apresenta os horários atribuídos a cada colaborador numa determinada semana, permitindo consultar de forma detalhada os horários planeados por dia.
 
 No cabeçalho, o relatório apresenta o nome do relatório, o período analisado e a identificação da empresa e da secção.
 
@@ -2418,7 +2413,7 @@ Para cada colaborador, são apresentados os seguintes dados:
 
 Cada linha corresponde a um dia do período em análise.
 
-<img width="886" height="109" alt="image" src="https://github.com/user-attachments/assets/3fb0520b-9378-4845-b42b-9610ec19aa01" />
+<img width="1847" height="504" alt="image" src="https://github.com/user-attachments/assets/44ce0e7e-7867-45ae-99a1-a3af491cf569" />
 
 **Configurações do relatório**
 
@@ -2435,7 +2430,7 @@ Cada linha corresponde a um dia do período em análise.
 * **Colaboradores:** multi-seleção
 * **Período**
 
-<img width="735" height="339" alt="image" src="https://github.com/user-attachments/assets/dcef638d-258a-4ea1-86f4-2ee639c259ae" />
+<img width="1720" height="624" alt="image" src="https://github.com/user-attachments/assets/59fcd6bb-bc3a-43c2-983d-4e7c0953c9c4" />
 
 **Informação técnica**
 
@@ -2463,7 +2458,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 4 c
 
 Cada linha corresponde a um posto dentro de uma secção, permitindo identificar rapidamente diferenças entre necessidade e planeamento.
 
-<img width="886" height="200" alt="image" src="https://github.com/user-attachments/assets/e8776436-4212-4113-998b-45f7be898dd8" />
+<img width="1317" height="396" alt="image" src="https://github.com/user-attachments/assets/8a7371ab-6cf6-4bfa-9277-2dc14942ae86" />
 
 **Configurações do relatório**
 
@@ -2479,7 +2474,7 @@ Cada linha corresponde a um posto dentro de uma secção, permitindo identificar
 * **Período**
 * **Horário** (OBRIGATÓRIO)
 
-<img width="740" height="339" alt="image" src="https://github.com/user-attachments/assets/891c77b6-058a-464e-92de-3e4d4df9f772" />
+<img width="1718" height="623" alt="image" src="https://github.com/user-attachments/assets/346b53f7-80cf-44c9-9029-630f73f94019" />
 
 **Informação técnica**
 
@@ -2508,8 +2503,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 5 c
 
 Cada linha corresponde a uma unidade específica num determinado dia.
 
-<img width="886" height="297" alt="image" src="https://github.com/user-attachments/assets/0459347f-6e22-4b3a-a5fc-9d573ee3f79e" />
-
+<img width="1880" height="718" alt="image" src="https://github.com/user-attachments/assets/30ea7bba-7de6-42c1-8923-52f8b2330dc3" />
 
 **Configurações do relatório**
 
@@ -2524,7 +2518,7 @@ Cada linha corresponde a uma unidade específica num determinado dia.
 * **Unidades**: multi-seleção
 * **Período**
 
-<img width="704" height="323" alt="image" src="https://github.com/user-attachments/assets/344414c1-d8d6-4d44-8dd6-283ef9d756e9" />
+<img width="1719" height="627" alt="image" src="https://github.com/user-attachments/assets/4846e9b2-b589-4cc8-a8e6-7a96900d4c17" />
 
 **Informação técnica**
 
@@ -2553,7 +2547,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 - **Nome do Utilizador** -- utilizador ou sistema que criou o registo
 - **Data de Criação** -- data de criação da isenção no sistema
 
-<img width="886" height="104" alt="image" src="https://github.com/user-attachments/assets/a66bc1d9-0095-48c6-ad35-6ab91738b857" />
+<img width="1898" height="370" alt="image" src="https://github.com/user-attachments/assets/482d89da-9c20-475c-b810-2c69cebe5d44" />
 
 **Configurações do relatório**
 
@@ -2569,7 +2563,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 * **Colaboradores**: drop-down
 * **Período**
 
-<img width="702" height="323" alt="image" src="https://github.com/user-attachments/assets/0ba51fdf-7355-4adc-9660-4b420cb377f2" />
+<img width="1715" height="627" alt="image" src="https://github.com/user-attachments/assets/48752c8c-4ae4-4aba-911c-65372b44c469" />
 
 **Informação técnica**
 
@@ -2596,7 +2590,7 @@ O relatório é composto por 6 colunas:
 - **Nome** -- nome completo do colaborador
 - **Estado** -- estado do processo (ex.: Processado)
 
-<img width="886" height="191" alt="image" src="https://github.com/user-attachments/assets/fdecea58-9343-4208-9a07-ff5d6fa16450" />
+<img width="1862" height="564" alt="image" src="https://github.com/user-attachments/assets/84caa74e-d634-4d69-993c-1dde5bc5648a" />
 
 **Configurações do relatório**
 
@@ -2614,7 +2608,7 @@ O relatório é composto por 6 colunas:
 * **Período**
 * **Tipo**: radio-button (Transferência / Empréstimo)
 
-<img width="738" height="336" alt="image" src="https://github.com/user-attachments/assets/77de222b-8f91-4e2b-adfc-d2be6c4fd6f3" />
+<img width="1706" height="619" alt="image" src="https://github.com/user-attachments/assets/162d69e9-a7f6-4f79-b12d-9a44d6e30fd5" />
 
 **Informação técnica**
 
@@ -2650,7 +2644,7 @@ Em cada célula são registados:
 - **Nº Mecanográfico** -- número interno do colaborador
 - **Nome do colaborador**
 
-<img width="886" height="351" alt="image" src="https://github.com/user-attachments/assets/38cced5a-4089-42fd-a3d5-cfecab336557" />
+<img width="1885" height="335" alt="image" src="https://github.com/user-attachments/assets/2033dd28-5116-4ad2-bf56-69af972441d9" />
 
 **Configurações do relatório**
 
@@ -2673,7 +2667,7 @@ Em cada célula são registados:
 * **Ordenação**: radio-button
 * **Opções de impressão**: radio-button
 
-<img width="762" height="349" alt="image" src="https://github.com/user-attachments/assets/abb545c1-7d44-48d1-a83f-2e6a254a6878" />
+<img width="1716" height="618" alt="image" src="https://github.com/user-attachments/assets/ff43a072-1e55-4822-88e9-31c111a31be0" />
 
 **Informação técnica**
 
@@ -2704,7 +2698,7 @@ Os dados são apresentados em formato tabular e o relatório contém os seguinte
   - **AR** -- Ausência registada
   - **ANR** -- Ausência não registada
 
-<img width="886" height="95" alt="image" src="https://github.com/user-attachments/assets/70f23b1f-55e9-4e33-9c89-257d6a1e0875" />
+<img width="1877" height="267" alt="image" src="https://github.com/user-attachments/assets/79324d28-c342-4f1b-8221-51c063ecddc7" />
 
 **Configurações do relatório**
 
@@ -2720,7 +2714,7 @@ Os dados são apresentados em formato tabular e o relatório contém os seguinte
 * **Grupos:** multi-seleção
 * **Período/Data:** data (dia)
 
-<img width="744" height="341" alt="image" src="https://github.com/user-attachments/assets/efca2807-f4ba-481d-ae9d-63e6b49f23b7" />
+<img width="1709" height="619" alt="image" src="https://github.com/user-attachments/assets/fe0d310a-e6e0-42c1-b029-408072eea24d" />
 
 **Informação técnica**
 
@@ -2747,7 +2741,7 @@ Os dados são apresentados em formato tabular e cada linha corresponde a um regi
 - **Total** -- duração total do tempo fora do posto
 - **Motivo** -- motivo/justificação associada (ex.: Aleitação, Formação, etc.)
 
-<img width="886" height="241" alt="image" src="https://github.com/user-attachments/assets/2904a17d-276a-4647-8e82-4c764c15ba6a" />
+<img width="1873" height="129" alt="image" src="https://github.com/user-attachments/assets/558ae2f3-f8bf-407b-bfd0-403268769e30" />
 
 **Configurações do relatório**
 
@@ -2765,7 +2759,7 @@ Os dados são apresentados em formato tabular e cada linha corresponde a um regi
 * **Período**
 * **Ordenação:** radio button
   
-<img width="704" height="321" alt="image" src="https://github.com/user-attachments/assets/3744a831-fd01-4c97-9817-2ba966b661fc" />
+<img width="1713" height="616" alt="image" src="https://github.com/user-attachments/assets/5494ba54-8b8a-4708-b854-6ca3599ca578" />
 
 **Informação técnica**
 
@@ -2796,7 +2790,7 @@ Os dados são apresentados em formato tabular e cada linha corresponde a um regi
 - **Tipo** -- tipo de tolerância aplicada
 - **IHT** -- indicação de isenção de horário (Sim/Não)
 
-<img width="886" height="62" alt="image" src="https://github.com/user-attachments/assets/10a61e35-c474-45de-9f4b-7a8561e09601" />
+<img width="1868" height="147" alt="image" src="https://github.com/user-attachments/assets/7067b48b-2260-477e-a4d3-351ee40e5658" />
 
 **Configurações do relatório**
 
@@ -2813,7 +2807,7 @@ Os dados são apresentados em formato tabular e cada linha corresponde a um regi
 * **Período**
 * **Ordenação:** radio button
 
-<img width="721" height="330" alt="image" src="https://github.com/user-attachments/assets/8f4d4ef6-78fe-4e9d-88b3-de7ca4dc878e" />
+<img width="1712" height="621" alt="image" src="https://github.com/user-attachments/assets/edb24a95-9ab3-4030-af29-a55fd15f444a" />
 
 **Informação técnica**
 
@@ -2845,7 +2839,7 @@ Os dados são apresentados em formato tabular. Cada linha corresponde a um regis
 
 No final de cada secção pode existir resumo com **totais por colaborador** e **total de colaboradores**.
 
-<img width="886" height="319" alt="image" src="https://github.com/user-attachments/assets/dd10bfad-969c-4119-97bb-759c5764c024" />
+<img width="1844" height="819" alt="image" src="https://github.com/user-attachments/assets/df2349a6-0dec-41b5-8197-a4de0216866f" />
 
 **Configurações do relatório**
 
@@ -2863,7 +2857,7 @@ No final de cada secção pode existir resumo com **totais por colaborador** e *
 * **Período**
 * **Lista dias (Todos os Dias/Só trabalho Suplementar):** radio button
 
-<img width="716" height="332" alt="image" src="https://github.com/user-attachments/assets/0bd23ca6-500e-4429-b7e9-52aa9e9fca0b" />
+<img width="1715" height="620" alt="image" src="https://github.com/user-attachments/assets/2b126a47-7bbe-4f82-83b0-ab2a27d79140" />
 
 **Informação técnica**
 
@@ -2888,7 +2882,7 @@ Os dados são apresentados em formato tabular e cada linha corresponde a um regi
 - **THT** -- total de horas trabalhadas (no dia ou agregado)
 - **TS** -- total suplementar (quando aplicável)
 
-<img width="886" height="190" alt="image" src="https://github.com/user-attachments/assets/f74b5b12-c61d-4926-8ef3-6f0c6cc29d8b" />
+<img width="1863" height="666" alt="image" src="https://github.com/user-attachments/assets/127b9e85-ebfc-418d-8a88-08506fd1c4e3" />
 
 **Configurações do relatório**
 
@@ -2908,7 +2902,7 @@ Os dados são apresentados em formato tabular e cada linha corresponde a um regi
 * **Período** (mês/ano)
 * **Ordenação:** radio button
 
-<img width="693" height="317" alt="image" src="https://github.com/user-attachments/assets/f7e99449-477c-40a4-81ea-aba1ff253ecd" />
+<img width="1337" height="602" alt="image" src="https://github.com/user-attachments/assets/947ff26b-d60d-4f59-a541-e88bf9af6e82" />
 
 **Informação técnica**
 
@@ -2938,8 +2932,7 @@ Os dados são apresentados em formato tabular e cada linha corresponde a uma alt
 - **Data da Alteração** -- data em que ficou registada no sistema
 - **Nº Troca** -- identificador da troca/ajuste
 
-
-<img width="886" height="75" alt="image" src="https://github.com/user-attachments/assets/1f27319c-ef7b-4eca-ad7d-55e54385a43b" />
+<img width="1870" height="281" alt="image" src="https://github.com/user-attachments/assets/0edd3a5d-4145-4e7d-866b-8df9196f2ed5" />
 
 **Configurações do relatório**
 
@@ -2956,7 +2949,7 @@ Os dados são apresentados em formato tabular e cada linha corresponde a uma alt
 * **Período**
 * **Ordenação:** radio button
   
-<img width="752" height="340" alt="image" src="https://github.com/user-attachments/assets/5980f73e-34e5-4187-bded-be235f51541e" />
+<img width="1712" height="616" alt="image" src="https://github.com/user-attachments/assets/aa237f5f-1fd1-4c48-823a-03061f7a6af6" />
 
 **Informação técnica**
 
