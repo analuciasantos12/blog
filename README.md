@@ -32,7 +32,7 @@ A tabela do relatório é composta por **11 Colunas:**
 <img width="1884" height="604" alt="image" src="https://github.com/user-attachments/assets/29bf8083-d1d4-4494-9004-2ee56291030b" />
 
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_fk_unit** → unidades (multi-seleção)
 - **i_fk_section** → secções (multi-seleção)
@@ -103,7 +103,7 @@ A tabela do relatório é composta por **12 colunas**:
 
 <img width="1853" height="476" alt="image" src="https://github.com/user-attachments/assets/dbc90cd2-a082-4d59-aa8c-383f95b166e7" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_fk_unit** → unidades (multi-seleção)
 - **i_fk_section** → secções (multi-seleção)
@@ -156,7 +156,7 @@ Os resultados são apresentados de forma tabular e o relatório é composto por 
 <img width="1906" height="495" alt="image" src="https://github.com/user-attachments/assets/2ad199be-e6ea-4909-82bb-576206a9623f" />
 
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidades (multi-seleção)
 - **I_FK_SECTION** → secções (multi-seleção)
@@ -211,7 +211,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 
 <img width="1861" height="468" alt="image" src="https://github.com/user-attachments/assets/a4ced93d-3800-4c33-8757-90ef4b45c263" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidades (multi)
 - **I_FK_SECTION** → secções (multi)
@@ -270,7 +270,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 16 
 
 
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidades (multi-seleção)
 - **I_FK_SECTION** → secções (multi-seleção)
@@ -324,7 +324,7 @@ Cada linha corresponde ao registo de ausências de um colaborador para um determ
 
 <img width="945" height="267" alt="image" src="https://github.com/user-attachments/assets/aa83f9b8-4750-46be-8dc5-cf4629591213" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 -	**I_FK_UNIT** → unidades (multi-seleção)
 -	**I_FK_SECTION** → secções (multi-seleção)
@@ -375,7 +375,7 @@ O relatório é composto por 8 colunas:
 
 <img width="1868" height="249" alt="image" src="https://github.com/user-attachments/assets/c47201de-ad89-49b1-b249-d83645674e26" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidades (multi-seleção)
 - **I_FK_SECTION** → secções (multi-seleção)
@@ -431,7 +431,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 13 
 
 <img width="1854" height="611" alt="image" src="https://github.com/user-attachments/assets/def2eea3-56fc-4763-a248-2090fc06db3d" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **Unidades** → seleção por *drop-down* (**obrigatório**)
 - **Secções** → seleção por *drop-down*
@@ -485,7 +485,7 @@ Os dados são apresentados em formato tabular e o relatório é composto pelas s
 <img width="1872" height="150" alt="image" src="https://github.com/user-attachments/assets/e559b332-9a21-4a12-b278-72500c69b113" />
 
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_fk_unit** → unidades (multi-seleção)
 - **i_fk_section** → secções (multi-seleção)
@@ -540,7 +540,7 @@ Cada linha da tabela corresponde a um registo individual de compensação associ
 
 <img width="1874" height="144" alt="image" src="https://github.com/user-attachments/assets/efc737fd-f8a2-43e0-abee-909aa756b3c6" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_fk_unit** → unidades (multi-seleção)
 - **i_fk_section** → secções (multi-seleção)
@@ -601,7 +601,7 @@ Cada linha da tabela corresponde a um contingente específico aplicado a um cola
 
 <img width="1858" height="496" alt="image" src="https://github.com/user-attachments/assets/cecedd41-b381-454d-9e7a-5bdf7fa6d09a" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidades (multi-seleção)
 - **I_FK_SECTION** → secções (multi-seleção)
@@ -660,7 +660,7 @@ Cada linha da tabela corresponde a um colaborador contratado ou demitido no per�
 
 <img width="1860" height="485" alt="image" src="https://github.com/user-attachments/assets/b192d5f6-acc5-445d-8bd3-a87182b305e9" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidade (seleção única)
 - **I_FK_SECTION** → secções
@@ -712,7 +712,7 @@ Cada linha corresponde a um colaborador e ao respetivo contrato ativo ou histór
 
 <img width="1860" height="389" alt="image" src="https://github.com/user-attachments/assets/42d38f21-3f79-4245-86ea-7536458a1111" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_fk_unit** → unidades (multi-seleção)
 - **i_fk_section** → secções (multi-seleção)
@@ -760,7 +760,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 
 <img width="1868" height="158" alt="image" src="https://github.com/user-attachments/assets/fbf15c6b-8969-4988-8356-6ca61a0061a4" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_fk_units** → unidades (multi)
 - **i_fk_sections** → secções (multi)
@@ -809,7 +809,7 @@ Os dados são apresentados em formato tabular e incluem:
  
 <img width="1855" height="561" alt="image" src="https://github.com/user-attachments/assets/aeecd469-3988-4ba1-80c2-92145193da63" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_Fk_Unidade** → unidade (single)
 - **i_Fk_Secao** → secções (multi)
@@ -858,7 +858,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 
 <img width="1857" height="559" alt="image" src="https://github.com/user-attachments/assets/3bf4e004-d7f2-4d44-8b60-509b5c33ca70" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_fk_unit** → unidade (single)
 - **i_fk_section** → secções
@@ -907,7 +907,7 @@ O documento inclui ainda:
 
 <img width="817" height="484" alt="image" src="https://github.com/user-attachments/assets/0ab3488b-e19b-4842-81c8-8e638a7a0fd1" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 -	**I_fk_unit** → unidade (multi)
 -	**I_fk_section** → secções (multi)
@@ -955,7 +955,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 11 
 
 <img width="1845" height="600" alt="image" src="https://github.com/user-attachments/assets/df6019cc-259d-4afe-affe-fcea70ba12a3" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_fk_unit** → unidade (single)
 - **i_fk_section** → secções
@@ -1010,7 +1010,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 11 
 
 <img width="1889" height="222" alt="image" src="https://github.com/user-attachments/assets/00417c94-bd32-4dd0-b68c-47f2fd29b538" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_fk_unidade** → unidade (single)
 - **i_fk_secao** → secções (multi)
@@ -1053,7 +1053,7 @@ A estrutura do relatório, colunas apresentadas e organização por secção sã
 
 <img width="1904" height="425" alt="image" src="https://github.com/user-attachments/assets/794655fe-efee-4a6c-97ea-15d0c0c14f71" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_fk_unit** → unidade (single)
 - **i_fk_section** → secções (multi)
@@ -1107,7 +1107,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 8 c
 
 <img width="1858" height="264" alt="image" src="https://github.com/user-attachments/assets/91cf2cab-4e21-4b98-8e08-f694717dbd9a" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidade (single)
 - **I_FK_SECTION** → secções
@@ -1151,7 +1151,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 4 c
 
 <img width="1853" height="661" alt="image" src="https://github.com/user-attachments/assets/80acd666-c65f-44d5-963d-a81d08b59f9a" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidade
 - **I_FK_SECTION** → secções
@@ -1202,7 +1202,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
   
 <img width="1863" height="487" alt="image" src="https://github.com/user-attachments/assets/eccf7655-302b-4509-97ea-0f3a23ee6c35" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_idioma** → idioma
 - **i_data_Ini** → data início do período
@@ -1259,7 +1259,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 
 <img width="1857" height="610" alt="image" src="https://github.com/user-attachments/assets/ceb16efd-4d4e-4bf4-9620-aa1b596c69cc" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidades (multi)
 - **I_FK_SECTION** → secções (multi)
@@ -1313,7 +1313,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 
 <img width="1856" height="384" alt="image" src="https://github.com/user-attachments/assets/aec19f8e-4f9f-4de6-a9a6-0adeb05d8361" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_fk_unit** → unidade (single)
 - **i_fk_section** → secções (multi)
@@ -1357,7 +1357,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 
 <img width="1873" height="104" alt="image" src="https://github.com/user-attachments/assets/7a6a06f7-d989-45e7-8c69-57c49b554a6d" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidades (multi)
 - **I_FK_SECTION** → secções (multi)
@@ -1411,7 +1411,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 
 <img width="1847" height="363" alt="image" src="https://github.com/user-attachments/assets/0f5cd98a-277e-408c-89a6-f3436f6cd0f1" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_fk_unit** → unidades
 - **I_fk_secao** → secções (multi)
@@ -1454,7 +1454,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 9 c
 
 <img width="1861" height="368" alt="image" src="https://github.com/user-attachments/assets/21f7a57a-3523-4b9e-86c7-418905e54b87" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_data_Ini / i_data_Fim** → período
 - **i_fk_unidade** → unidades
@@ -1485,13 +1485,17 @@ Os dados são apresentados em formato tabular e o relatório é composto por 9 c
 
 ## Horários por Colaborador (Avaliação Noturna)
 
-O relatório **Horários por Colaborador (Avaliação Noturna)** é equivalente ao relatório de Horários por Colaborador, aplicando adicionalmente as regras de redução de horário noturno, quando aplicável. Este relatório é fundamental para a correta análise de cargas horárias sujeitas a regimes noturnos.
+O relatório **Horários por Colaborador (Avaliação Noturna)** é equivalente ao relatório de Horários por Colaborador, aplicando adicionalmente as regras de redução de horário noturno, quando aplicável. 
+
+As configurações do horário noturno (hora inicio, hora fim e período) podem ser definidas no ecrã “Trabalho noturno” que pode ser acedido através de Parâmetros> Unidades> Colaborador> Gestão de Tempos> Trabalho noturno.
+
+Este relatório é fundamental para a correta análise de cargas horárias sujeitas a regimes noturnos.
 
 A estrutura de apresentação é idêntica ao relatório base, sendo ajustados os cálculos de carga horária conforme as regras de avaliação noturna.
 
 <img width="1853" height="366" alt="image" src="https://github.com/user-attachments/assets/dcfbe4b9-b1e4-4861-8db1-6f198a24cd32" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_data_Ini / i_data_Fim** → período
 - **i_fk_unidade** → unidades
@@ -1553,7 +1557,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 8 c
 
 <img width="1860" height="504" alt="image" src="https://github.com/user-attachments/assets/07dd665e-90e8-43d7-8e12-b726b8477876" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidade (single)
 - **I_FK_SECTION** → secções
@@ -1598,7 +1602,7 @@ Adicionalmente, o relatório inclui:
 
 <img width="1855" height="673" alt="image" src="https://github.com/user-attachments/assets/896b7984-45cd-49d3-b7ce-0903f1834ae2" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_fk_unit** → unidade (single)
 - **i_fk_section** → secções (multi)
@@ -1644,7 +1648,7 @@ A informação é apresentada num formato semelhante a um calendário, facilitan
 
 <img width="1852" height="731" alt="image" src="https://github.com/user-attachments/assets/a68236f1-b11e-429f-97cf-9cbb9a36e74c" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_fk_unit** → unidade (single)
 - **i_fk_section** → secção (single)
@@ -1696,7 +1700,7 @@ A informação é apresentada num formato semelhante a um calendário mensal, fa
 
 <img width="1874" height="217" alt="image" src="https://github.com/user-attachments/assets/35a0d610-3b4d-4fef-9f0d-0748b39730b4" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_year** → ano
 - **i_month** → mês
@@ -1758,7 +1762,7 @@ Para cada movimento registado, o relatório identifica:
 
 <img width="1873" height="573" alt="image" src="https://github.com/user-attachments/assets/a3607926-821d-4824-92bd-55f3ce933eb6" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_fk_unit, i_fk_section, i_fk_employee**
 - **i_is_active** → só ativos (flag)
@@ -1820,7 +1824,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 16 
 
 <img width="1868" height="226" alt="image" src="https://github.com/user-attachments/assets/cddb29ca-704d-421f-9691-47318fd141b4" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_fk_unit** → unidade
 - **i_fk_section** → secções
@@ -1874,7 +1878,7 @@ Os dados são apresentados em formato tabular e o relatório é composto pelas s
 
 <img width="1552" height="84" alt="image" src="https://github.com/user-attachments/assets/e46195c0-eaad-40f5-88da-2bab4f1881e6" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 -	**i_fk_unit** → unidade
 -	**i_fk_section** → secções
@@ -1922,7 +1926,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
   
 <img width="1853" height="758" alt="image" src="https://github.com/user-attachments/assets/c4bcbdd9-ff1e-4185-920d-a3120884c7c5" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_view_type** → tipo de vista
 - **i_only_active** → só ativos
@@ -1979,7 +1983,7 @@ Por fim, o documento inclui notas finais com orientações sobre a utilização 
 
 <img width="886" height="974" alt="image" src="https://github.com/user-attachments/assets/81102140-bcc4-4b53-b0ea-4ab6fb3ad6e8" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 -	**I_FK_UNIT** → unidade
 -	**I_FK_SECTION** → secções
@@ -2032,7 +2036,7 @@ Os dados são apresentados em formato tabular e o relatório é composto pelas s
 
 <img width="1849" height="568" alt="image" src="https://github.com/user-attachments/assets/3ac14511-59fc-470a-8c17-bb7051aeb98c" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidade (single)
 - **I_FK_SECTION** → secções (multi)
@@ -2082,7 +2086,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 
 <img width="1870" height="133" alt="image" src="https://github.com/user-attachments/assets/549e6401-b059-456b-8ede-28d99bb06d69" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidade (single)
 - **I_FK_SECTION** → secções (multi)
@@ -2128,7 +2132,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 3 c
 
 <img width="1856" height="573" alt="image" src="https://github.com/user-attachments/assets/fa883772-816f-44bc-b0ee-c3386ab054f5" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidade (single)
 - **I_FK_SECTION** → secções
@@ -2180,7 +2184,7 @@ No final de cada secção existe uma linha de **TOTAL**, que soma o número de c
 <img width="1854" height="475" alt="image" src="https://github.com/user-attachments/assets/aa679db1-380c-4e7c-b1f7-6e64bd18399e" />
 
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidade (single)
 - **I_FK_SECTION** → secções (multi)
@@ -2225,7 +2229,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 5 c
 
 <img width="1866" height="865" alt="image" src="https://github.com/user-attachments/assets/41a87b68-dffe-4ea3-877e-b0e9e33ccd22" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidades (multi)
 - **I_FK_SECTION** → secções (multi)
@@ -2272,7 +2276,7 @@ No final de cada secção é apresentado um resumo da carga horária semanal, on
 
 <img width="1865" height="902" alt="image" src="https://github.com/user-attachments/assets/6d82f41f-399c-4176-b0e7-ced40298fe90" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_only_active** → só ativos / todos
 - **i_fk_unit** → unidade (single)
@@ -2321,7 +2325,7 @@ Os dados são apresentados em formato tabular, sendo cada linha correspondente a
 
 <img width="1871" height="142" alt="image" src="https://github.com/user-attachments/assets/a8aadc09-7568-4cb7-b710-f2c1c731a73b" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_idioma** → idioma
 - **i_fk_unit** → unidade (single)
@@ -2370,7 +2374,7 @@ No final de cada colaborador é apresentado o total de dias de férias gozados n
 
 <img width="1865" height="390" alt="image" src="https://github.com/user-attachments/assets/7a32b3ef-f7f5-4d7c-8c15-75ca6cdcf805" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_fk_unit** → unidade (single)
 - **i_fk_section** → secções
@@ -2421,7 +2425,7 @@ De seguida, é apresentada a lista de colaboradores afetos ao posto, com o segui
 
 <img width="1297" height="778" alt="image" src="https://github.com/user-attachments/assets/889c5552-51db-45f7-b8e6-7bb153e3ae9f" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - I_fk_unit → unidade (single)
 - I_fk_secao → secções
@@ -2466,7 +2470,7 @@ Cada linha corresponde a um dia do período em análise.
 
 <img width="1847" height="504" alt="image" src="https://github.com/user-attachments/assets/44ce0e7e-7867-45ae-99a1-a3af491cf569" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_DATA_INI / I_DATA_FIM** → período
 - **I_FK_UNIDADE** → unidade (single)
@@ -2511,7 +2515,7 @@ Cada linha corresponde a um posto dentro de uma secção, permitindo identificar
 
 <img width="1317" height="396" alt="image" src="https://github.com/user-attachments/assets/8a7371ab-6cf6-4bfa-9277-2dc14942ae86" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidades
 - **I_FK_SECAO** → secções
@@ -2556,7 +2560,7 @@ Cada linha corresponde a uma unidade específica num determinado dia.
 
 <img width="1880" height="718" alt="image" src="https://github.com/user-attachments/assets/30ea7bba-7de6-42c1-8923-52f8b2330dc3" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_STATE** → estados (multi)
 - **I_FK_UNITY** → unidades (multi)
@@ -2600,7 +2604,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 7 c
 
 <img width="1898" height="370" alt="image" src="https://github.com/user-attachments/assets/482d89da-9c20-475c-b810-2c69cebe5d44" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidade (single)
 - **I_FK_SECTION** → secção (single)
@@ -2643,7 +2647,7 @@ O relatório é composto por 6 colunas:
 
 <img width="1862" height="564" alt="image" src="https://github.com/user-attachments/assets/84caa74e-d634-4d69-993c-1dde5bc5648a" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_IDIOMA** → idioma
 - **I_FK_UNIT** → unidade (1)
@@ -2697,7 +2701,7 @@ Em cada célula são registados:
 
 <img width="1885" height="335" alt="image" src="https://github.com/user-attachments/assets/2033dd28-5116-4ad2-bf56-69af972441d9" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 *	**i_fk_unidade** → unidade (single)
 *	**i_fk_secao** → secções (multi)
@@ -2751,7 +2755,7 @@ Os dados são apresentados em formato tabular e o relatório contém os seguinte
 
 <img width="1877" height="267" alt="image" src="https://github.com/user-attachments/assets/79324d28-c342-4f1b-8221-51c063ecddc7" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 -	**I_fk_unit** → unidade (1)
 -	**I_fk_secao** → secções (multi)
@@ -2794,7 +2798,7 @@ Os dados são apresentados em formato tabular e cada linha corresponde a um regi
 
 <img width="1873" height="129" alt="image" src="https://github.com/user-attachments/assets/558ae2f3-f8bf-407b-bfd0-403268769e30" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **i_idioma** → idioma
 - **i_fk_unit** → unidade (1)
@@ -2843,7 +2847,7 @@ Os dados são apresentados em formato tabular e cada linha corresponde a um regi
 
 <img width="1868" height="147" alt="image" src="https://github.com/user-attachments/assets/7067b48b-2260-477e-a4d3-351ee40e5658" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidade (single)
 - **I_FK_SECTION** → secções
@@ -2892,7 +2896,7 @@ No final de cada secção pode existir resumo com **totais por colaborador** e *
 
 <img width="1844" height="819" alt="image" src="https://github.com/user-attachments/assets/df2349a6-0dec-41b5-8197-a4de0216866f" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidades (multi)
 - **I_FK_SECTION** → secções (multi)
@@ -2935,7 +2939,7 @@ Os dados são apresentados em formato tabular e cada linha corresponde a um regi
 
 <img width="1863" height="666" alt="image" src="https://github.com/user-attachments/assets/127b9e85-ebfc-418d-8a88-08506fd1c4e3" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidades (multi)
 - **I_FK_SECTION** → secções (multi)
@@ -2985,7 +2989,7 @@ Os dados são apresentados em formato tabular e cada linha corresponde a uma alt
 
 <img width="1870" height="281" alt="image" src="https://github.com/user-attachments/assets/0edd3a5d-4145-4e7d-866b-8df9196f2ed5" />
 
-**Configurações do relatório**
+**Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidade
 - **I_FK_SECTION** → secções
