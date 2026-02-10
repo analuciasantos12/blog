@@ -1,4 +1,4 @@
-## Alertas
+<img width="886" height="133" alt="image" src="https://github.com/user-attachments/assets/faf26905-fbdd-4d76-a731-ac45856ae25f" />## Alertas
 
 O relatório **Alertas** apresenta todos os **parâmetros legais que não foram cumpridos** no período selecionado, identificando de forma detalhada os colaboradores em incumprimento e a natureza exata de cada violação legal.
 
@@ -102,6 +102,34 @@ A tabela do relatório é composta por **12 colunas**:
 12. **Estado da Troca** -- estado atual da troca
 
 <img width="1853" height="476" alt="image" src="https://github.com/user-attachments/assets/dbc90cd2-a082-4d59-aa8c-383f95b166e7" />
+
+**Configurações do relatório:**
+
+*	**"alias": "Body"**   -> CONFIGURÁVEL A NÍVEL DO TIPO DE BODY
+
+* **Body_v0:**
+ 
+<img width="886" height="169" alt="image" src="https://github.com/user-attachments/assets/12339865-4d90-4723-9701-fdc50217718e" />
+
+* **Body_v1:**
+
+  * Contém a adição da coluna “Outro Motivo”
+
+<img width="886" height="295" alt="image" src="https://github.com/user-attachments/assets/49cc3e28-d6c8-4cd9-94bc-d2e1358137cd" />
+
+ 
+**Body_v2:**
+  *	As datas “Data de Criação” e “Data de Alteração” estão no formato data/hora
+
+<img width="886" height="256" alt="image" src="https://github.com/user-attachments/assets/860ccca4-9bba-4c3a-a3a3-fc1c2c72255f" />
+
+  
+* **Body_v3:**
+  * Contém a adição da coluna “Outro Motivo”
+  * As datas “Data de Criação” e “Data de Alteração” estão no formato data/hora
+
+<img width="886" height="256" alt="image" src="https://github.com/user-attachments/assets/a0a810e2-ead0-4a02-ab04-5a13307e2f03" />
+
 
 **Parâmetros do relatório (back-end)**
 
@@ -210,6 +238,26 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 10. **Classificado em** -- data em que a ausência foi classificada
 
 <img width="1861" height="468" alt="image" src="https://github.com/user-attachments/assets/a4ced93d-3800-4c33-8757-90ef4b45c263" />
+
+**Configurações do relatório**
+
+* **"alias": "Body"**  -> CONFIGURÁVEL A NÍVEL DO TIPO DE BODY
+
+* **Body_v0:**
+
+<img width="886" height="264" alt="image" src="https://github.com/user-attachments/assets/d30c4b62-879c-4e81-a3e2-f658fae21001" />
+
+**Body_v1:**
+
+  * Contém a adição das colunas “Código Externo”, “Empresa” e “Tipo de Ausência”
+
+<img width="886" height="275" alt="image" src="https://github.com/user-attachments/assets/babec306-b2a7-48af-9c5a-a94c57313598" />
+
+*	**"filters":**   ->  CONFIGURÁVEL A NÍVEL DOS FILTROS
+  
+* **"alias": "CollaboratorCheck"**    -> COLABORADORES TODOS / INTERNOS/ EXTERNOS
+ 
+<img width="768" height="349" alt="image" src="https://github.com/user-attachments/assets/13ed94fc-9f9d-488e-b5ea-6e1674a0ec72" />
 
 **Parâmetros do relatório (back-end)**
 
@@ -1010,6 +1058,35 @@ Os dados são apresentados em formato tabular e o relatório é composto por 11 
 
 <img width="1889" height="222" alt="image" src="https://github.com/user-attachments/assets/00417c94-bd32-4dd0-b68c-47f2fd29b538" />
 
+**Configurações do relatório**
+
+*	**"alias": "Body"**   -> CONFIGURÁVEL A NÍVEL DO TIPO DE BODY
+  
+*	**Body_v1:**
+
+<img width="886" height="132" alt="image" src="https://github.com/user-attachments/assets/6d2de7f2-13af-47ca-a1fd-5c0cb579e917" />
+
+* **Body_v0:**
+  * Contém uma coluna com a carga semanal média
+ 
+<img width="886" height="134" alt="image" src="https://github.com/user-attachments/assets/510ec94b-6bc5-4f9e-8667-f6341a8ac4ad" />
+ 
+* **Body_v2:**
+  * Contém uma coluna com a carga semanal média e uma coluna com o cargo do trabalhador
+
+<img width="886" height="133" alt="image" src="https://github.com/user-attachments/assets/a197f02d-7299-4f36-bd44-9380d67b900d" />
+
+**Body_ VSignature:**
+  *	Contém uma coluna com a carga semanal média e um campo para assinatura do colaborador
+
+<img width="886" height="133" alt="image" src="https://github.com/user-attachments/assets/0ba496f9-2c18-401a-9008-2c92fbe69ae3" />
+
+* **"filters":**  ->  CONFIGURÁVEL A NÍVEL DOS FILTROS
+
+* **"alias": "Notes"**,
+ 
+<img width="771" height="351" alt="image" src="https://github.com/user-attachments/assets/dc0a4190-7041-46b2-97d5-7f182b9e2b22" />
+
 **Parâmetros do relatório (back-end)**
 
 - **i_fk_unidade** → unidade (single)
@@ -1202,6 +1279,31 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
   
 <img width="1863" height="487" alt="image" src="https://github.com/user-attachments/assets/eccf7655-302b-4509-97ea-0f3a23ee6c35" />
 
+**Configurações do relatório**
+
+*	**"alias": "Header"**, -> FORMATO DO CABEÇALHO
+	
+*	**"alias": "Body"**   -> CONFIGURÁVEL A NÍVEL DO TIPO DE BODY
+
+*	**Header_v0 + Body_v0:**
+
+<img width="833" height="267" alt="image" src="https://github.com/user-attachments/assets/b1d10907-4dc0-442f-949d-e4df50d0d215" />
+
+*	**Header_v1 + Body_v0:**
+  
+<img width="886" height="288" alt="image" src="https://github.com/user-attachments/assets/7bcb8da0-5381-4878-aea1-0c6b1ff68a33" />
+
+*	**Header_v1 + Body_v1:**
+  
+  *	Inclui a coluna “Tipo de posto”
+
+<img width="886" height="363" alt="image" src="https://github.com/user-attachments/assets/0ff5dd83-9059-4b4a-9347-d5c012d58cab" />
+
+*	**Header_v1 + Body_v2:**
+
+<img width="886" height="366" alt="image" src="https://github.com/user-attachments/assets/bc3188ad-88ff-4f2d-80ff-6c6613275153" />
+
+
 **Parâmetros do relatório (back-end)**
 
 - **i_idioma** → idioma
@@ -1236,6 +1338,74 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 - **Função:** S_RELATORIOS.get_relatorio_escala
 - **Local de impressão:** Módulo Relatórios, Vista mensal de horários, Escala
 - **Formatos disponíveis:** Excel, PD
+
+---
+
+## Escala de Trabalho Por Turnos
+
+O relatório **Escala de Trabalho** por Turnos apresenta a distribuição diária dos colaboradores por turnos de trabalho, permitindo visualizar de forma clara quem está escalado, em que horário, e em que tipo de posto, numa data específica. 
+
+Este relatório é utilizado no apoio à gestão operacional diária, assegurando a cobertura adequada dos postos de trabalho.
+
+No cabeçalho, o relatório apresenta a data da escala, a unidade e a secção selecionadas. É apresentada uma tabela por dia. 
+
+No rodapé de cada tabela são listados os postos disponíveis na secção para o respetivo dia.
+
+Os dados são apresentados em formato tabular e o relatório é composto por 8 colunas:
+
+•	**Matrícula** – número mecanográfico do colaborador
+•	**Nome** – nome do colaborador
+•	**Tipo de Posto** – posto onde o colaborador esteve alocado
+•	**Horário** – horário realizado
+•	**Repouso** – horário do repouso
+•	**Nº colaboradores** – número de colaboradores na secção
+•	**Nº da Caixa**
+•	**Observações** – observações adicionais
+ 
+<img width="945" height="87" alt="image" src="https://github.com/user-attachments/assets/b397fc71-6ee2-42ce-a38b-19fc25db9ec8" />
+
+**Configurações do relatório**
+
+*	**"filters"**
+
+*	**"alias": "MiddayTime"**
+
+<img width="723" height="326" alt="image" src="https://github.com/user-attachments/assets/c5493d67-909c-414d-b073-ad142698f829" />
+
+**Parâmetros do relatório (back-end)**
+
+•	**I_IDIOMA** → idioma
+•	**I_DATA_INI** → data início do período
+•	**I_DATA_FIM** → data fim do período
+•	**I_FK_UNIDADE** → unidades (single)
+•	**I_FK_SECAO** → secções (multi)
+•	**I_FK_COLABORADOR** → colaboradores (multi)
+•	**I_POLIVALENCIA** → polivalência (todos/secção/outra secção)
+•	**I_FK_TIPO_POSTO** → tipos de posto (multi)
+•	**I_COMPENSATIONS** → incluir compensações (1=sim / 0=não)
+
+**Filtros do relatório**
+
+•	**Unidades:** drop-down (OBRIGATÓRIO)
+•	**Secções:** drop-down
+•	**Colaboradores:** drop-down
+•	**Tipo de posto:** drop-down
+•	**Período**
+•	**Planeamento extra:** check-box
+•	**Colaboradores (todos/presentes):** radio button
+•	**Polivalência (todos/secção/outra secção):** radio button
+•	**Ordenação:** radio button
+•	**Opções de impressão (por escala / sem quebra / automático):** radio button
+ 
+<img width="765" height="368" alt="image" src="https://github.com/user-attachments/assets/9dcb5fc3-ac56-4aa9-9f00-730b56ef48cf" />
+
+**Informação técnica**
+
+* **Nome do relatório:** Escala de Trabalho por Turnos
+* **Key:** WorkScheduleByShifts
+* **Função:** S_RELATORIOS.get_work_schedule_by_shifts
+* **Local de impressão:** Módulo Relatórios
+* **Formatos disponíveis:** Excel, PDF
 
 ---
 
