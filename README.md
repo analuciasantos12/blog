@@ -1,4 +1,4 @@
-<img width="886" height="133" alt="image" src="https://github.com/user-attachments/assets/faf26905-fbdd-4d76-a731-ac45856ae25f" />## Alertas
+## Alertas
 
 O relatório **Alertas** apresenta todos os **parâmetros legais que não foram cumpridos** no período selecionado, identificando de forma detalhada os colaboradores em incumprimento e a natureza exata de cada violação legal.
 
