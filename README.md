@@ -1358,14 +1358,14 @@ No rodapé de cada tabela são listados os postos disponíveis na secção para 
 
 Os dados são apresentados em formato tabular e o relatório é composto por 8 colunas:
 
-•	**Matrícula** – número mecanográfico do colaborador
-•	**Nome** – nome do colaborador
-•	**Tipo de Posto** – posto onde o colaborador esteve alocado
-•	**Horário** – horário realizado
-•	**Repouso** – horário do repouso
-•	**Nº colaboradores** – número de colaboradores na secção
-•	**Nº da Caixa**
-•	**Observações** – observações adicionais
+*	**Matrícula** – número mecanográfico do colaborador
+*	**Nome** – nome do colaborador
+*	**Tipo de Posto** – posto onde o colaborador esteve alocado
+*	**Horário** – horário realizado
+*	**Repouso** – horário do repouso
+*	**Nº colaboradores** – número de colaboradores na secção
+*	**Nº da Caixa**
+*	**Observações** – observações adicionais
  
 <img width="945" height="87" alt="image" src="https://github.com/user-attachments/assets/b397fc71-6ee2-42ce-a38b-19fc25db9ec8" />
 
@@ -1381,28 +1381,28 @@ Os dados são apresentados em formato tabular e o relatório é composto por 8 c
 
 **Parâmetros do relatório (back-end)**
 
-•	**I_IDIOMA** → idioma
-•	**I_DATA_INI** → data início do período
-•	**I_DATA_FIM** → data fim do período
-•	**I_FK_UNIDADE** → unidades (single)
-•	**I_FK_SECAO** → secções (multi)
-•	**I_FK_COLABORADOR** → colaboradores (multi)
-•	**I_POLIVALENCIA** → polivalência (todos/secção/outra secção)
-•	**I_FK_TIPO_POSTO** → tipos de posto (multi)
-•	**I_COMPENSATIONS** → incluir compensações (1=sim / 0=não)
+*	**I_IDIOMA** → idioma
+*	**I_DATA_INI** → data início do período
+*	**I_DATA_FIM** → data fim do período
+*	**I_FK_UNIDADE** → unidades (single)
+*	**I_FK_SECAO** → secções (multi)
+*	**I_FK_COLABORADOR** → colaboradores (multi)
+*	**I_POLIVALENCIA** → polivalência (todos/secção/outra secção)
+*	**I_FK_TIPO_POSTO** → tipos de posto (multi)
+*	**I_COMPENSATIONS** → incluir compensações (1=sim / 0=não)
 
 **Filtros do relatório**
 
-•	**Unidades:** drop-down (OBRIGATÓRIO)
-•	**Secções:** drop-down
-•	**Colaboradores:** drop-down
-•	**Tipo de posto:** drop-down
-•	**Período**
-•	**Planeamento extra:** check-box
-•	**Colaboradores (todos/presentes):** radio button
-•	**Polivalência (todos/secção/outra secção):** radio button
-•	**Ordenação:** radio button
-•	**Opções de impressão (por escala / sem quebra / automático):** radio button
+*	**Unidades:** drop-down (OBRIGATÓRIO)
+*	**Secções:** drop-down
+*	**Colaboradores:** drop-down
+*	**Tipo de posto:** drop-down
+*	**Período**
+*	**Planeamento extra:** check-box
+*	**Colaboradores (todos/presentes):** radio button
+*	**Polivalência (todos/secção/outra secção):** radio button
+*	**Ordenação:** radio button
+*	**Opções de impressão (por escala / sem quebra / automático):** radio button
  
 <img width="765" height="368" alt="image" src="https://github.com/user-attachments/assets/9dcb5fc3-ac56-4aa9-9f00-730b56ef48cf" />
 
