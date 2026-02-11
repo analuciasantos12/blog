@@ -103,7 +103,8 @@ A tabela do relatório é composta por **12 colunas**:
 
 <img width="1853" height="476" alt="image" src="https://github.com/user-attachments/assets/dbc90cd2-a082-4d59-aa8c-383f95b166e7" />
 
-**Configurações do relatório:**
+
+**Configurações do relatório**
 
 *	**"alias": "Body"**   -> CONFIGURÁVEL A NÍVEL DO TIPO DE BODY
 
@@ -118,7 +119,7 @@ A tabela do relatório é composta por **12 colunas**:
 <img width="886" height="295" alt="image" src="https://github.com/user-attachments/assets/49cc3e28-d6c8-4cd9-94bc-d2e1358137cd" />
 
  
-**Body_v2:**
+* **Body_v2:**
   *	As datas “Data de Criação” e “Data de Alteração” estão no formato data/hora
 
 <img width="886" height="256" alt="image" src="https://github.com/user-attachments/assets/860ccca4-9bba-4c3a-a3a3-fc1c2c72255f" />
@@ -239,6 +240,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 
 <img width="1861" height="468" alt="image" src="https://github.com/user-attachments/assets/a4ced93d-3800-4c33-8757-90ef4b45c263" />
 
+
 **Configurações do relatório**
 
 * **"alias": "Body"**  -> CONFIGURÁVEL A NÍVEL DO TIPO DE BODY
@@ -247,7 +249,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
 
 <img width="886" height="264" alt="image" src="https://github.com/user-attachments/assets/d30c4b62-879c-4e81-a3e2-f658fae21001" />
 
-**Body_v1:**
+* **Body_v1:**
 
   * Contém a adição das colunas “Código Externo”, “Empresa” e “Tipo de Ausência”
 
@@ -1058,6 +1060,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 11 
 
 <img width="1889" height="222" alt="image" src="https://github.com/user-attachments/assets/00417c94-bd32-4dd0-b68c-47f2fd29b538" />
 
+
 **Configurações do relatório**
 
 *	**"alias": "Body"**   -> CONFIGURÁVEL A NÍVEL DO TIPO DE BODY
@@ -1076,7 +1079,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 11 
 
 <img width="886" height="133" alt="image" src="https://github.com/user-attachments/assets/a197f02d-7299-4f36-bd44-9380d67b900d" />
 
-**Body_ VSignature:**
+* **Body_ VSignature:**
   *	Contém uma coluna com a carga semanal média e um campo para assinatura do colaborador
 
 <img width="886" height="133" alt="image" src="https://github.com/user-attachments/assets/0ba496f9-2c18-401a-9008-2c92fbe69ae3" />
@@ -1086,6 +1089,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 11 
 * **"alias": "Notes"**,
  
 <img width="771" height="351" alt="image" src="https://github.com/user-attachments/assets/dc0a4190-7041-46b2-97d5-7f182b9e2b22" />
+
 
 **Parâmetros do relatório (back-end)**
 
@@ -1279,6 +1283,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 10 
   
 <img width="1863" height="487" alt="image" src="https://github.com/user-attachments/assets/eccf7655-302b-4509-97ea-0f3a23ee6c35" />
 
+
 **Configurações do relatório**
 
 *	**"alias": "Header"**, -> FORMATO DO CABEÇALHO
@@ -1364,6 +1369,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 8 c
  
 <img width="945" height="87" alt="image" src="https://github.com/user-attachments/assets/b397fc71-6ee2-42ce-a38b-19fc25db9ec8" />
 
+
 **Configurações do relatório**
 
 *	**"filters"**
@@ -1371,6 +1377,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 8 c
 *	**"alias": "MiddayTime"**
 
 <img width="723" height="326" alt="image" src="https://github.com/user-attachments/assets/c5493d67-909c-414d-b073-ad142698f829" />
+
 
 **Parâmetros do relatório (back-end)**
 
@@ -1624,6 +1631,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 9 c
 
 <img width="1861" height="368" alt="image" src="https://github.com/user-attachments/assets/21f7a57a-3523-4b9e-86c7-418905e54b87" />
 
+
 **Configurações do relatório**
 
 * **"alias": "Title"**  -> FORMATO DO TÍTULO
@@ -1664,6 +1672,7 @@ Os dados são apresentados em formato tabular e o relatório é composto por 9 c
 
 <img width="886" height="333" alt="image" src="https://github.com/user-attachments/assets/91655067-6a6a-4855-9965-72fbbbbe37ed" />
  
+
 **Parâmetros do relatório (back-end)**
 
 - **i_data_Ini / i_data_Fim** → período
@@ -1858,6 +1867,7 @@ A informação é apresentada num formato semelhante a um calendário, facilitan
 
 <img width="1852" height="731" alt="image" src="https://github.com/user-attachments/assets/a68236f1-b11e-429f-97cf-9cbb9a36e74c" />
 
+
 **Configurações do relatório**
 
 * **"alias": "Footer"** -> FORMATO DO RODAPÉ
@@ -1870,6 +1880,7 @@ A informação é apresentada num formato semelhante a um calendário, facilitan
 	* Contém a carga anual do contrato e a carga anual planeada
 
 <img width="886" height="352" alt="image" src="https://github.com/user-attachments/assets/50153678-7497-46c5-9479-1d9856042248" />
+
 
 **Parâmetros do relatório (back-end)**
 
@@ -2259,6 +2270,7 @@ Os dados são apresentados em formato tabular e o relatório é composto pelas s
 
 <img width="1849" height="568" alt="image" src="https://github.com/user-attachments/assets/3ac14511-59fc-470a-8c17-bb7051aeb98c" />
 
+
 **Configurações do relatório**
 
 * **"alias": "Body"**  -> CONFIGURÁVEL A NÍVEL DO TIPO DE BODY
@@ -2282,6 +2294,7 @@ Os dados são apresentados em formato tabular e o relatório é composto pelas s
 * **"alias": "CollaboratorCheck"**   -> COLABORADORES TODOS/ INTERNOS/ EXTERNOS
  
 <img width="732" height="333" alt="image" src="https://github.com/user-attachments/assets/c6e905df-4a14-4a13-94d9-87e397ba4eb9" />
+
 
 **Parâmetros do relatório (back-end)**
 
@@ -2621,6 +2634,7 @@ No final de cada colaborador é apresentado o total de dias de férias gozados n
 
 <img width="1865" height="390" alt="image" src="https://github.com/user-attachments/assets/7a32b3ef-f7f5-4d7c-8c15-75ca6cdcf805" />
 
+
 **Configurações do relatório**
 
 * **"alias": "Header"**  -> FORMATO DO CABEÇALHO
@@ -2632,6 +2646,7 @@ No final de cada colaborador é apresentado o total de dias de férias gozados n
 * **Header_v0**
  
 <img width="886" height="187" alt="image" src="https://github.com/user-attachments/assets/a1cf2b40-247b-4ef4-8a04-e91a4376e657" />
+
 
 **Parâmetros do relatório (back-end)**
 
@@ -2960,6 +2975,7 @@ Em cada célula são registados:
 
 <img width="1885" height="335" alt="image" src="https://github.com/user-attachments/assets/2033dd28-5116-4ad2-bf56-69af972441d9" />
 
+
 **Configurações do relatório**
 
 * **"alias": "Header"**  -> FORMATO DO CABEÇALHO
@@ -2995,6 +3011,7 @@ Em cada célula são registados:
 * **"alias": "EMPLOYEE_TYPE"**
  
 <img width="786" height="356" alt="image" src="https://github.com/user-attachments/assets/9b7f9ab3-3a7e-4887-a3b3-41df2f02de9b" />
+
 
 **Parâmetros do relatório (back-end)**
 
