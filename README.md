@@ -1624,6 +1624,46 @@ Os dados são apresentados em formato tabular e o relatório é composto por 9 c
 
 <img width="1861" height="368" alt="image" src="https://github.com/user-attachments/assets/21f7a57a-3523-4b9e-86c7-418905e54b87" />
 
+**Configurações do relatório**
+
+* **"alias": "Title"**  -> FORMATO DO TÍTULO
+* **"alias": "Header"**  -> FORMATO DO CABEÇALHO
+* **"alias": "Body"**   -> CONFIGURÁVEL A NÍVEL DO TIPO DE BODY
+* **"alias": "Footer"** -> FORMATO DO RODAPÉ
+
+* **Title_v0 + Header_v0 + Body_v0 + Footer_v0**
+
+<img width="886" height="281" alt="image" src="https://github.com/user-attachments/assets/f34bcbad-b9f5-4d54-b9bb-73aef9413ad2" />
+
+* **Title_v1 + Header_v0 + Body_v0 + Footer_v0**
+
+<img width="886" height="278" alt="image" src="https://github.com/user-attachments/assets/65d326cd-1ed0-44b4-97b1-1dd66dd365ac" />
+
+* **Title_v0 + Header_v1 + Body_v0 + Footer_v0**
+	* Apresenta a carga total ao invés da carga semanal
+
+<img width="886" height="332" alt="image" src="https://github.com/user-attachments/assets/4e13ce99-ec92-4737-94b9-e9d5e71b81d3" />
+
+* **Title_v0 + Header_v2 + Body_v0 + Footer_v0**
+	* Contém a carga semanal e carga total
+
+<img width="886" height="277" alt="image" src="https://github.com/user-attachments/assets/2fec2ad6-2ebf-4afc-89d0-c8829a6ab797" />
+
+* **Title_v0 + Header_v0 + Body_v0 + Footer_v1**
+	* Contém um campo para assinatura do colaborador
+ 
+<img width="886" height="355" alt="image" src="https://github.com/user-attachments/assets/1dd7d1ec-be8e-43cc-9c6e-cd44a1a0b33f" />
+
+* **Title_v0 + Header_v0 + Body_v0 + Footer_v2**
+	* Contém um campo para assinatura do responsável e outro campo para assinatura do colaborador
+
+<img width="886" height="345" alt="image" src="https://github.com/user-attachments/assets/156b2164-4f1a-43f6-a844-6c4d05f494db" />
+
+* **Title_v0 + Header_v0 + Body_v1 + Footer_v0**
+	* Contém contadores por contingente
+
+<img width="886" height="333" alt="image" src="https://github.com/user-attachments/assets/91655067-6a6a-4855-9965-72fbbbbe37ed" />
+ 
 **Parâmetros do relatório (back-end)**
 
 - **i_data_Ini / i_data_Fim** → período
@@ -1817,6 +1857,19 @@ Para cada colaborador, o relatório mostra os dias em que ocorreram:
 A informação é apresentada num formato semelhante a um calendário, facilitando a leitura e análise operacional.
 
 <img width="1852" height="731" alt="image" src="https://github.com/user-attachments/assets/a68236f1-b11e-429f-97cf-9cbb9a36e74c" />
+
+**Configurações do relatório**
+
+* **"alias": "Footer"** -> FORMATO DO RODAPÉ
+
+* **Footer_v0**
+
+<img width="886" height="352" alt="image" src="https://github.com/user-attachments/assets/ffb8bb8c-f218-48d2-9c73-424584e191f4" />
+
+* **Footer_v1**
+	* Contém a carga anual do contrato e a carga anual planeada
+
+<img width="886" height="352" alt="image" src="https://github.com/user-attachments/assets/50153678-7497-46c5-9479-1d9856042248" />
 
 **Parâmetros do relatório (back-end)**
 
@@ -2206,6 +2259,30 @@ Os dados são apresentados em formato tabular e o relatório é composto pelas s
 
 <img width="1849" height="568" alt="image" src="https://github.com/user-attachments/assets/3ac14511-59fc-470a-8c17-bb7051aeb98c" />
 
+**Configurações do relatório**
+
+* **"alias": "Body"**  -> CONFIGURÁVEL A NÍVEL DO TIPO DE BODY
+
+* **body_v0**
+ 
+<img width="886" height="136" alt="image" src="https://github.com/user-attachments/assets/bdc92faa-0714-4b03-bd1e-f9c3842087a0" />
+
+* **body_v1**
+	* As picagens são do tipo P.1, P.2, P.3 e P.4
+ 
+<img width="886" height="135" alt="image" src="https://github.com/user-attachments/assets/c3a3c114-d75b-4276-af36-c38782274401" />
+
+* **body_v2**
+	* As picagens são do tipo P.1, P.2, P.3 e P.4
+	* Inclui as colunas “Código Externo” e “Empresa”
+ 
+<img width="886" height="136" alt="image" src="https://github.com/user-attachments/assets/1f0c3bd6-e842-48ce-a2eb-e5ac27afb16a" />
+
+* **"filters":**
+* **"alias": "CollaboratorCheck"**   -> COLABORADORES TODOS/ INTERNOS/ EXTERNOS
+ 
+<img width="732" height="333" alt="image" src="https://github.com/user-attachments/assets/c6e905df-4a14-4a13-94d9-87e397ba4eb9" />
+
 **Parâmetros do relatório (back-end)**
 
 - **I_FK_UNIT** → unidade (single)
@@ -2544,6 +2621,18 @@ No final de cada colaborador é apresentado o total de dias de férias gozados n
 
 <img width="1865" height="390" alt="image" src="https://github.com/user-attachments/assets/7a32b3ef-f7f5-4d7c-8c15-75ca6cdcf805" />
 
+**Configurações do relatório**
+
+* **"alias": "Header"**  -> FORMATO DO CABEÇALHO
+
+* **Header_v1**
+
+ <img width="886" height="173" alt="image" src="https://github.com/user-attachments/assets/487fdd02-8c98-4c6e-aea3-ded81a34e2a8" />
+
+* **Header_v0**
+ 
+<img width="886" height="187" alt="image" src="https://github.com/user-attachments/assets/a1cf2b40-247b-4ef4-8a04-e91a4376e657" />
+
 **Parâmetros do relatório (back-end)**
 
 - **i_fk_unit** → unidade (single)
@@ -2870,6 +2959,42 @@ Em cada célula são registados:
 - **Nome do colaborador**
 
 <img width="1885" height="335" alt="image" src="https://github.com/user-attachments/assets/2033dd28-5116-4ad2-bf56-69af972441d9" />
+
+**Configurações do relatório**
+
+* **"alias": "Header"**  -> FORMATO DO CABEÇALHO
+* **"alias": "Body"**   -> CONFIGURÁVEL A NÍVEL DO TIPO DE BODY
+
+* **Header_v0 + Body_v0**
+ 
+<img width="886" height="270" alt="image" src="https://github.com/user-attachments/assets/f2da82ef-d7a8-43fa-8e7f-ca4e7b74b9b3" />
+
+* **Header_v1 + Body_v0**
+ 
+<img width="886" height="273" alt="image" src="https://github.com/user-attachments/assets/73bd7424-159b-484d-a96c-9bc4dcda2625" />
+
+* **Header_v0 + Body_vSignature**
+	* Contém um campo para assinatura do colaborador
+
+<img width="886" height="286" alt="image" src="https://github.com/user-attachments/assets/ff86e3d6-99ce-47cd-81da-496fb2741228" />
+  
+* **"filters":**
+
+* **"alias": "ReportTypeDDL"**
+ 
+<img width="768" height="349" alt="image" src="https://github.com/user-attachments/assets/71b8420d-5d0a-4dbb-986e-b54c56047f77" />
+
+* **"alias": " MonthlyViewExtended "**
+ 
+<img width="756" height="337" alt="image" src="https://github.com/user-attachments/assets/4c38c6af-4949-4853-890d-13d16a03fa8d" />
+
+* **"alias": "ApprovedSchedules "**
+ 
+<img width="782" height="353" alt="image" src="https://github.com/user-attachments/assets/0567d438-4557-4d75-9519-97c288705471" />
+
+* **"alias": "EMPLOYEE_TYPE"**
+ 
+<img width="786" height="356" alt="image" src="https://github.com/user-attachments/assets/9b7f9ab3-3a7e-4887-a3b3-41df2f02de9b" />
 
 **Parâmetros do relatório (back-end)**
 
